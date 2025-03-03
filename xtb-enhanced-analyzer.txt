@@ -1935,3 +1935,148 @@ def analyze_stock(client, symbol, max_time=MAX_EXECUTION_TIME_PER_STOCK):
     finally:
         elapsed_time = time.time() - start_time
         print(f"[INFO]")
+
+# Function to process stocks in batches
+def process_stocks_in_batches(stocks, batch_size=MAX_STOCKS_PER_BATCH):
+    print(f"[INFO] Starting batch processing of {len(stocks)} stocks")
+    
+    # Initialize output file
+    if not initialize_output_file():
+        print("[ERROR] Failed to initialize output file. Aborting.")
+        return False
+        
+    # Track overall progress
+    total_analyzed = 0
+    total_successful = 0
+    
+    # Set overall timeout
+    overall_start_time = time.time()
+    
+    # Process in batches
+    for i in range(0, len(stocks), batch_size):
+        batch = stocks[i:i+batch_size]
+        print(f"[INFO] Processing batch {i//batch_size + 1}/{(len(stocks) + batch_size - 1)//batch_size}")
+        
+        # Check overall timeout
+        if time.time() - overall_start_time > MAX_TOTAL_RUNTIME:
+            print(f"[WARNING] Maximum total runtime ({MAX_TOTAL_RUNTIME/3600:.1f} hours) reached. Stopping.")
+            break
+            
+        # Connect to XTB for this batch
+        client = XTBClient()
+        connection_success = client.connect()
+        
+        if not connection_success:
+            print("[ERROR] Failed to connect to XTB for this batch. Trying again after delay.")
+            time.sleep(BATCH_DELAY * 2)  # Longer delay after connection failure
+            continue
+            
+        # Process each stock in the batch
+        for stock in batch:
+            symbol = stock["symbol"]
+            
+            # Check overall timeout
+            if time.time() - overall_start_time > MAX_TOTAL_RUNTIME:
+                print(f"[WARNING] Maximum total runtime reached during batch. Stopping.")
+                break
+                
+            # Skip if we're not logged in
+            if not client.logged_in:
+                print(f"[WARNING] Not logged in. Reconnecting...")
+                client.disconnect()
+                time.sleep(5)
+                connection_success = client.connect()
+                if not connection_success:
+                    print("[ERROR] Reconnection failed. Skipping rest of batch.")
+                    break
+            
+            # Analyze the stock
+            result = analyze_stock(client, symbol)
+            total_analyzed += 1
+            
+            # If analysis successful, save the result
+            if result:
+                append_stock_result(
+                    result["symbol"], 
+                    result["price"], 
+                    result["sigma"], 
+                    result["recommendation"]
+                )
+                total_successful += 1
+                
+            # Print progress
+            progress = (total_analyzed / len(stocks)) * 100
+            success_rate = (total_successful / total_analyzed) * 100 if total_analyzed > 0 else 0
+            print(f"[INFO] Progress: {progress:.1f}% ({total_analyzed}/{len(stocks)}), Success rate: {success_rate:.1f}%")
+        
+        # Disconnect after batch is complete
+        client.disconnect()
+        
+        # Wait between batches to avoid rate limits
+        if i + batch_size < len(stocks):  # If not the last batch
+            print(f"[INFO] Batch complete. Waiting {BATCH_DELAY} seconds before next batch...")
+            time.sleep(BATCH_DELAY)
+    
+    # Final report
+    print(f"[INFO] Analysis complete! Analyzed {total_analyzed}/{len(stocks)} stocks with {total_successful} successful analyses.")
+    print(f"[INFO] Results saved to {OUTPUT_FILE}")
+    
+    return True
+
+
+# Main function to run the entire database analysis
+def analyze_entire_database():
+    print("[INFO] Starting analysis of entire XTB stock database")
+    
+    # Connect to XTB
+    client = XTBClient()
+    
+    if not client.connect():
+        print("[ERROR] Failed to connect to XTB API. Exiting.")
+        return False
+        
+    try:
+        # Get all stock symbols
+        all_stocks = get_all_stock_symbols(client)
+        
+        if not all_stocks or len(all_stocks) == 0:
+            print("[ERROR] Failed to retrieve stock symbols or no stocks found.")
+            client.disconnect()
+            return False
+            
+        print(f"[INFO] Retrieved {len(all_stocks)} stock symbols for analysis")
+        
+        # Disconnect since we'll reconnect in batches
+        client.disconnect()
+        
+        # Process all stocks in batches
+        success = process_stocks_in_batches(all_stocks)
+        
+        return success
+        
+    except Exception as e:
+        print(f"[ERROR] Error in database analysis: {e}")
+        traceback.print_exc()
+        return False
+    finally:
+        # Ensure we disconnect
+        try:
+            if client and hasattr(client, 'disconnect'):
+                client.disconnect()
+        except:
+            pass
+
+
+# Run the analysis if this script is executed directly
+if __name__ == "__main__":
+    try:
+        print("\n===== XTB STOCK DATABASE ANALYZER =====")
+        print("Starting analysis with enhanced mean reversion model")
+        print("Running on optimized settings for powerful hardware")
+        print("============================================\n")
+        analyze_entire_database()
+    except KeyboardInterrupt:
+        print("\n[INFO] Analysis stopped by user")
+    except Exception as e:
+        print(f"[ERROR] Unhandled exception: {e}")
+        traceback.print_exc()
