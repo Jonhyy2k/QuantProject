@@ -1934,4 +1934,4 @@ def analyze_stock(client, symbol, max_time=MAX_EXECUTION_TIME_PER_STOCK):
         return None
     finally:
         elapsed_time = time.time() - start_time
-        print(f"[INFO]
+        print(f"[INFO]")
