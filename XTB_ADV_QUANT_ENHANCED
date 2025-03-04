@@ -1153,22 +1153,6 @@ def build_lstm_model(input_shape):
                 print(f"[ERROR] All LSTM model attempts failed: {e3}")
                 return None
 
-
-# Enhanced LSTM model training and prediction with extended processing time
-def predict_with_lstm(data):
-    try:
-        # Set a maximum execution time - significantly increased for thorough training
-        max_execution_time = 240  # 4 minutes max (increased from 2 minutes)
-        start_time = time.time()
-
-        # Require less data to attempt prediction
-        if len(data) < 60:
-            print("[WARNING] Not enough data for LSTM model")
-            return 0
-
-        # Use a larger window for more context
-        time_steps = 60  # Increased for
-
 # Enhanced LSTM model training and prediction with extended processing time
 def predict_with_lstm(data):
     try:
