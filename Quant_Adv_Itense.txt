@@ -1,0 +1,1039 @@
+===== XTB STOCK ANALYSIS DATABASE =====
+Generated on: 2025-03-04 13:59:05
+FORMAT: TICKER | PRICE | SIGMA | RECOMMENDATION
+----------------------------------------
+TGNA.US_9 | $1775.00 | 0.56423 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+FUTU.US_9 | $10333.00 | 0.54054 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-41.8%)
+SIRI.US_9 | $2403.00 | 0.22216 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-73.7%)
+BMRN.US_9 | $7079.00 | 0.36852 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+HALO.US_4 | $5781.00 | 0.45296 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+DEA.US_4 | $1127.00 | 0.34849 | SELL - Balanced indicators with no clear edge in Stable volatility
+GEO.US_9 | $2619.00 | 0.47573 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SKFB.SE_9 | $22360.00 | 0.59375 | HOLD - Balanced indicators with no clear edge in Stable volatility
+WCC.US_4 | $16866.00 | 0.29558 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+EXPD.US_4 | $11832.00 | 0.67091 | BUY - Strong but potentially overextended momentum in Stable volatility regime
+NXT.UK_4 | $10029.00 | 0.67698 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+JMAT.UK_4 | $14130.00 | 0.27241 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-40.3%)
+ABBV.US_9 | $21123.00 | 0.57373 | HOLD - Balanced indicators with no clear edge in Falling volatility
+ANE.ES_4 | $18000.00 | 0.19364 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-51.3%)
+NWG.UK_9 | $46290.00 | 0.45565 | HOLD - Balanced indicators with no clear edge in Rising volatility
+KGX.DE_9 | $37760.00 | 0.34344 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-40.2%)
+KUSAMA | $1658.00 | 0.13039 | STRONG SELL - Continued weakness with -20.2% monthly loss in high volatility regime | High historical drawdown risk (-75.3%)
+IU5C.DE | $10796.00 | 0.46964 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+DM.US | $200.00 | 0.13088 | STRONG SELL - Strong mean-reverting characteristics (Hurst=0.01) with weak momentum | High historical drawdown risk (-91.9%)
+RMS.FR_4 | $267900.00 | 0.59487 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+APLE.US_9 | $1455.00 | 0.46851 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ARCH.US_4 | $13457.00 | 0.30112 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+SYBL.DE | $439840.00 | 0.41098 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+PZZA.US | $4456.00 | 0.20501 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-58.3%)
+SOLB.BE_9 | $30390.00 | 0.18932 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-81.1%)
+KEMIRA.FI_4 | $2064.00 | 0.46257 | HOLD - Balanced indicators with no clear edge in Rising volatility
+TGT.US_9 | $12051.00 | 0.24183 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+SKX.US_4 | $5823.00 | 0.26683 | SELL - Negative trend with -22.6% monthly loss and limited reversal signals
+BK.US_4 | $8716.00 | 0.69782 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+STEM.US | $3913.00 | 0.16604 | STRONG SELL - Negative trend with -33.1% monthly loss and limited reversal signals | High historical drawdown risk (-96.5%)
+U3O8.DE | $69000.00 | 0.28825 | SELL - Negative trend with -23.1% monthly loss and limited reversal signals | High historical drawdown risk (-41.8%)
+HUBS.US_4 | $68895.00 | 0.50663 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+DEC.UK_9 | $9890.00 | 0.14063 | STRONG SELL - Continued weakness with -26.2% monthly loss in high volatility regime | High historical drawdown risk (-99.5%)
+XLF.US_5 | $5067.00 | 0.54390 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+G.IT_9 | $31550.00 | 0.52043 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+KOF.FR_4 | $3305.00 | 0.51412 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+UETW.DE | $321070.00 | 0.43433 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+XMME.UK | $582100.00 | 0.54397 | HOLD - Balanced indicators with no clear edge in Stable volatility
+SGAS.DE_9 | $11246.00 | 0.52384 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+FRT.US_9 | $10486.00 | 0.44231 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+PSQ.US_5 | $3900.00 | 0.48140 | HOLD - Balanced indicators with no clear edge in Stable volatility
+DEMANT.DK_4 | $25340.00 | 0.37644 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+CSL.US_9 | $32381.00 | 0.38089 | SELL - Negative trend with -15.1% monthly loss and limited reversal signals
+PCH.US_9 | $4734.00 | 0.48691 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+VOD.UK_4 | $6997.00 | 0.40941 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SUSM.UK | $72150.00 | 0.35473 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+TSLA.DE | $25500.00 | 0.24487 | SELL - Continued weakness with -31.0% monthly loss in high volatility regime | High historical drawdown risk (-50.5%)
+GXI.DE_9 | $7845.00 | 0.28068 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-47.0%)
+FIS.US_4 | $7118.00 | 0.49767 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+PRFD.UK | $155050.00 | 0.43058 | HOLD - Balanced indicators with no clear edge in Falling volatility
+GAW.UK_9 | $13870.00 | 0.56001 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CRSR.US_4 | $1080.00 | 0.32294 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-71.3%)
+TPST.US | $7537.00 | 0.16785 | STRONG SELL - Negative trend with -15.7% monthly loss and limited reversal signals | High historical drawdown risk (-93.9%) | Strong positive expectancy (Kelly=0.31)
+OUT.US | $1806.00 | 0.19051 | STRONG SELL - Strong mean-reverting characteristics (Hurst=0.01) with weak momentum | High historical drawdown risk (-51.1%)
+ALV.DE_9 | $33370.00 | 0.57341 | HOLD - Balanced indicators with no clear edge in Rising volatility
+TT.US_4 | $33995.00 | 0.49370 | HOLD - Balanced indicators with no clear edge in Stable volatility
+RIZJ.DE | $41195.00 | 0.46570 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CH50cash | $129488.00 | 0.44123 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+TECK.US_4 | $3809.00 | 0.23467 | SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+IBZL.NL | $18514.00 | 0.43868 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CDE.US_9 | $500.00 | 0.19335 | STRONG SELL - Negative trend with -26.1% monthly loss and limited reversal signals | High historical drawdown risk (-54.6%)
+COOP.US_9 | $10913.00 | 0.54601 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ACE.IT | $17630.00 | 0.54906 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+RCUS.US_9 | $1015.00 | 0.20044 | SELL - Negative trend with -23.3% monthly loss and limited reversal signals | High historical drawdown risk (-58.0%)
+TIP.IT_9 | $7960.00 | 0.41747 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+PR1E.DE | $30965.00 | 0.42060 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+REG.US_9 | $7709.00 | 0.60826 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+28IY.DE | $51774.00 | 0.41968 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+FXA.US | $6136.00 | 0.42503 | HOLD - Balanced indicators with no clear edge in Stable volatility
+FIE.DE_9 | $4390.00 | 0.45949 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SPXC.US_9 | $13333.00 | 0.56791 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+HMB.SE_4 | $14033.00 | 0.41073 | HOLD - Balanced indicators with no clear edge in Stable volatility
+EUN0.DE | $66640.00 | 0.60565 | BUY - Balanced indicators with no clear edge in Stable volatility
+JREZ.DE | $35645.00 | 0.50654 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CBUV.DE | $86840.00 | 0.53469 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+DPW.DE_9 | $37100.00 | 0.55350 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+AVT.US_9 | $4820.00 | 0.38864 | SELL - Balanced indicators with no clear edge in Stable volatility
+DRW3.DE_4 | $5500.00 | 0.45324 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+STRO.US | $139.00 | 0.15772 | STRONG SELL - Negative trend with -26.1% monthly loss and limited reversal signals | High historical drawdown risk (-76.4%)
+EPR.US | $5334.00 | 0.57629 | HOLD - Balanced indicators with no clear edge in Stable volatility
+INGR.US_4 | $13075.00 | 0.30023 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+CMPS.US_9 | $365.00 | 0.19525 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-72.9%)
+FISV.US_4 | $22396.00 | 0.47738 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+BOOT.US_9 | $11092.00 | 0.29709 | SELL - Negative trend with -23.0% monthly loss and limited reversal signals
+IUSQ.DE | $84680.00 | 0.40987 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+NICE.US_9 | $14148.00 | 0.32220 | SELL - Balanced indicators with no clear edge in Rising volatility | High historical drawdown risk (-46.9%)
+FGP.UK_9 | $16670.00 | 0.51363 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+OPRA.US | $1655.00 | 0.27943 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-62.6%)
+GIB.US_4 | $10183.00 | 0.38535 | SELL - Balanced indicators with no clear edge in Rising volatility
+F.US_4 | $917.00 | 0.21402 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum | High historical drawdown risk (-40.1%)
+JEF.US_9 | $5907.00 | 0.38985 | SELL - Continued weakness with -20.7% monthly loss in high volatility regime
+JXN.US_4 | $8256.00 | 0.36974 | SELL - Balanced indicators with no clear edge in Stable volatility
+QDVE.DE | $29420.00 | 0.45908 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+AMBUB.DK | $12590.00 | 0.47963 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-42.2%)
+SMCP.FR | $3415.00 | 0.29555 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-80.4%)
+PBRA.US_4 | $1167.00 | 0.34033 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+IT.US_9 | $48345.00 | 0.39462 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+ETHEREUM | $2069190.00 | 0.45558 | HOLD - Mixed signals in high volatility environment - position sizing caution advised | High historical drawdown risk (-49.1%)
+FRSH.US | $1603.00 | 0.34578 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-55.5%)
+SGLD.UK | $2799900.00 | 0.49543 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+PENG.US_4 | $1833.00 | 0.34116 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-54.8%)
+VWRA.UK | $13878.00 | 0.40367 | HOLD - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+MARA.US_9 | $1332.00 | 0.18503 | STRONG SELL - Continued weakness with -25.8% monthly loss in high volatility regime | High historical drawdown risk (-62.4%)
+UPBD.US_9 | $2423.00 | 0.21053 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+WDAY.US_4 | $24851.00 | 0.42619 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+ICHN.NL | $52978.00 | 0.54166 | HOLD - Balanced indicators with no clear edge in Stable volatility
+DBB.US | $1906.00 | 0.36984 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+ACGL.US_9 | $9276.00 | 0.52954 | HOLD - Balanced indicators with no clear edge in Stable volatility
+DWL.UK | $6620.00 | 0.19300 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-70.9%)
+CEMR.DE | $12678.00 | 0.47361 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+AMKR.US_4 | $2014.00 | 0.15335 | STRONG SELL - Negative trend with -15.8% monthly loss and limited reversal signals | High historical drawdown risk (-54.8%)
+EDM4.DE | $83470.00 | 0.46613 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BLUE.US_9 | $378.00 | 0.31888 | SELL - Negative trend with -45.9% monthly loss and limited reversal signals | High historical drawdown risk (-94.2%)
+MLI.US_9 | $7695.00 | 0.22464 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-61.7%)
+SGEN.US_4 | $22851.00 | 0.69237 | BUY - Balanced indicators with no clear edge in Stable volatility
+HSI.FR | $23980.00 | 0.52545 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+UU.UK_4 | $9737.00 | 0.40181 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+VRM.US_4 | $2416.00 | 0.23635 | SELL - Strong but potentially overextended momentum in Rising volatility regime | High historical drawdown risk (-92.9%) | Strong positive expectancy (Kelly=0.35)
+BHVN.US | $3024.00 | 0.29665 | SELL - Negative trend with -19.8% monthly loss and limited reversal signals | High historical drawdown risk (-49.4%)
+XPEV.US_9 | $1978.00 | 0.26344 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-71.7%)
+BEAM.US_4 | $2458.00 | 0.17326 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-53.5%)
+TOM2.NL_9 | $4498.00 | 0.18576 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-51.4%)
+BMY.US_9 | $5992.00 | 0.43621 | HOLD - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-44.0%)
+GLDV.UK_9 | $329600.00 | 0.47628 | HOLD - Balanced indicators with no clear edge in Stable volatility
+PNN.UK_4 | $4093.00 | 0.12921 | STRONG SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum | High historical drawdown risk (-53.8%)
+EURAUD | $169647.00 | 0.57920 | HOLD - Balanced indicators with no clear edge in Stable volatility
+ESPO.US | $8876.00 | 0.52122 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+NTRS.US_4 | $10339.00 | 0.39810 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+BCP.PT_4 | $5146.00 | 0.45210 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+DRUG.US | $3247.00 | 0.30766 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-76.0%)
+FAST.US_9 | $7405.00 | 0.46063 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+EMEIS.FR_9 | $109540.00 | 0.33938 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-99.2%)
+PRLB.US_4 | $3704.00 | 0.46489 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ESAP.DE | $230100.00 | 0.47572 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+APPS.ES_4 | $1244.00 | 0.34378 | SELL - Balanced indicators with no clear edge in Rising volatility
+XUCD.DE | $77830.00 | 0.54420 | HOLD - Potential stabilization after -14.7% monthly decline, monitor for trend change
+STHO.US | $883.00 | 0.17084 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-61.6%)
+RDSB.UK_4 | $25596.00 | 0.56255 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+IQQX.DE | $21070.00 | 0.45072 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+LNC.US_9 | $3541.00 | 0.31301 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+AUS200 | $8208.00 | 0.45302 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+WDEY.DE | $38585.00 | 0.42105 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ALT.US | $562.00 | 0.30972 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-81.5%)
+VUZI.US | $252.00 | 0.27650 | SELL - Negative trend with -40.4% monthly loss and limited reversal signals | High historical drawdown risk (-85.4%)
+ESTC.US_9 | $10383.00 | 0.49441 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-47.8%)
+GD.US_4 | $25369.00 | 0.40138 | HOLD - Balanced indicators with no clear edge in Stable volatility
+IS3R.DE | $76980.00 | 0.50543 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+ACA.FR_9 | $15775.00 | 0.50193 | HOLD - Balanced indicators with no clear edge in Stable volatility
+VTY.UK_4 | $5931.00 | 0.21888 | SELL - Balanced indicators with no clear edge in Falling volatility | High historical drawdown risk (-63.8%)
+ICOM.UK | $72200.00 | 0.45415 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+DXSK.DE | $14592.00 | 0.49950 | HOLD - Balanced indicators with no clear edge in Stable volatility
+VIV.FR_4 | $28210.00 | 0.13635 | STRONG SELL - Balanced indicators with no clear edge in Falling volatility | High historical drawdown risk (-78.1%)
+XCSI.DE | $31480.00 | 0.54310 | HOLD - Balanced indicators with no clear edge in Falling volatility
+GPOR.UK_9 | $2675.00 | 0.14736 | STRONG SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum | High historical drawdown risk (-53.7%)
+RBAG.CZ_4 | $155760.00 | 0.38537 | SELL - Mixed signals in high volatility environment - position sizing caution advised
+DOX.US_9 | $8619.00 | 0.56106 | HOLD - Balanced indicators with no clear edge in Stable volatility
+SOLO.US | $2112.00 | 0.17542 | STRONG SELL - Negative trend with -15.5% monthly loss and limited reversal signals | High historical drawdown risk (-78.6%)
+HA.US_4 | $1795.00 | 0.35628 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-68.6%)
+UEQU.DE | $20525.00 | 0.46205 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+FRPT.US_9 | $9544.00 | 0.30674 | SELL - Negative trend with -39.7% monthly loss and limited reversal signals | High historical drawdown risk (-41.3%)
+FBP.US_9 | $1866.00 | 0.44844 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+OTLY.US_4 | $886.00 | 0.31190 | SELL - Strong but potentially overextended momentum in Rising volatility regime | High historical drawdown risk (-85.3%)
+UNF.US_4 | $20633.00 | 0.54081 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+IGG.UK_9 | $9440.00 | 0.28664 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+ARQT.US_9 | $1316.00 | 0.28161 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-87.7%)
+VICR.US_9 | $5884.00 | 0.33607 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-66.7%)
+IUCD.UK | $140300.00 | 0.36258 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+ATCOB.SE_4 | $15207.00 | 0.42214 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ROBO.IT_5 | $2060.00 | 0.38074 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+PSTG.US | $4918.00 | 0.27603 | SELL - Negative trend with -26.2% monthly loss and limited reversal signals
+BEKB.BE_9 | $3202.00 | 0.26375 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+CBAT.US | $8105.00 | 0.18617 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-54.9%)
+PZC.UK_9 | $8220.00 | 0.18991 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-63.2%)
+T10G.UK | $91860.00 | 0.42549 | HOLD - Balanced indicators with no clear edge in Stable volatility
+DARK.UK_4 | $5761.00 | 0.56549 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+VANTI.FR_4 | $1721.00 | 0.28549 | SELL - Strong but potentially overextended momentum in Stable volatility regime | High historical drawdown risk (-63.4%)
+PRO.US_9 | $2300.00 | 0.20060 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum | High historical drawdown risk (-57.3%)
+SCYR.ES_4 | $3297.00 | 0.47655 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BEI.DE_4 | $13574.00 | 0.68709 | BUY - Balanced indicators with no clear edge in Stable volatility
+HYMC.US | $225.00 | 0.25919 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-63.4%)
+EFRN.DE | $50744.00 | 0.63985 | BUY - Balanced indicators with no clear edge in Falling volatility
+FSLR.US_9 | $13340.00 | 0.20109 | SELL - Negative trend with -20.1% monthly loss and limited reversal signals | High historical drawdown risk (-57.5%)
+BIO.US_9 | $25071.00 | 0.25095 | SELL - Negative trend with -28.9% monthly loss and limited reversal signals | High historical drawdown risk (-49.2%)
+CARG.US_9 | $3201.00 | 0.60094 | BUY - Potential stabilization after -16.7% monthly decline, monitor for trend change
+POOL.US | $34409.00 | 0.36604 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+SWKS.US_9 | $6633.00 | 0.20146 | SELL - Negative trend with -22.2% monthly loss and limited reversal signals | High historical drawdown risk (-46.8%)
+IFX.DE_4 | $34023.00 | 0.45415 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+UNI.ES_4 | $16220.00 | 0.44930 | HOLD - Balanced indicators with no clear edge in Stable volatility
+SABR.US | $402.00 | 0.29493 | SELL - Strong but potentially overextended momentum in Rising volatility regime | High historical drawdown risk (-66.4%)
+ATRY.ES | $3450.00 | 0.26841 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-54.0%)
+WTIZ.DE | $28000.00 | 0.46301 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ACN.US_9 | $34545.00 | 0.39796 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+FFIE.US | $12900.00 | 0.22747 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-100.0%)
+DIB.IT_4 | $1381.00 | 0.28598 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-65.7%)
+SU.FR_9 | $21745.00 | 0.40274 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+DISCK.US_4 | $1045.00 | 0.23955 | SELL - Balanced indicators with no clear edge in Rising volatility | High historical drawdown risk (-54.6%)
+XWEQ.DE | $40005.00 | 0.40913 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+DOCU.US_9 | $8088.00 | 0.42787 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-41.1%)
+USNA.US_4 | $2984.00 | 0.12951 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-58.1%)
+BJRI.US_9 | $3689.00 | 0.47864 | HOLD - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-41.6%)
+HTGC.US | $2007.00 | 0.48583 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BRFS.US_9 | $307.00 | 0.20205 | SELL - Negative trend with -17.0% monthly loss and limited reversal signals
+LNTH.US_4 | $9657.00 | 0.42542 | HOLD - Balanced indicators with no clear edge in Rising volatility | High historical drawdown risk (-48.6%)
+INDV.UK_9 | $7210.00 | 0.17600 | STRONG SELL - Negative trend with -21.8% monthly loss and limited reversal signals | High historical drawdown risk (-69.3%)
+CE8G.DE | $61960.00 | 0.53537 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+FUSA.DE | $11986.00 | 0.43085 | HOLD - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+ZPRG.DE_9 | $31265.00 | 0.34405 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+XESC.DE | $91520.00 | 0.57320 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CVCO.US_9 | $51445.00 | 0.55129 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+IDS.UK_9 | $3616.00 | 0.46250 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+RPD.US | $2860.00 | 0.18336 | STRONG SELL - Negative trend with -25.7% monthly loss and limited reversal signals | High historical drawdown risk (-54.0%)
+GPN.US_4 | $9893.00 | 0.35378 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+DEZ.DE | $5165.00 | 0.50473 | HOLD - Balanced indicators with no clear edge in Stable volatility
+ESNT.UK_9 | $1138.00 | 0.21654 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum | High historical drawdown risk (-48.9%)
+STAA.US_4 | $1778.00 | 0.14971 | STRONG SELL - Continued weakness with -23.8% monthly loss in high volatility regime | High historical drawdown risk (-79.0%)
+APLS.US_9 | $2467.00 | 0.20601 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-74.8%)
+CRH.UK_9 | $7314.00 | 0.49398 | HOLD - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+MKS.UK_9 | $37440.00 | 0.75686 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+NRG.US_9 | $9872.00 | 0.60805 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+ADYEN.NL | $169140.00 | 0.24788 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-62.9%)
+TJX.US_4 | $12205.00 | 0.49620 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+YORW.US | $3353.00 | 0.37597 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+GBF.DE_4 | $5900.00 | 0.45945 | HOLD - Balanced indicators with no clear edge in Stable volatility
+SLP.US_9 | $2840.00 | 0.38907 | SELL - Negative trend with -16.7% monthly loss and limited reversal signals | High historical drawdown risk (-47.0%)
+ZPDH.DE | $43045.00 | 0.57507 | HOLD - Balanced indicators with no clear edge in Stable volatility
+SYNA.US_9 | $6220.00 | 0.27704 | SELL - Negative trend with -26.5% monthly loss and limited reversal signals | High historical drawdown risk (-48.0%)
+SPPX.DE | $209310.00 | 0.44732 | HOLD - Balanced indicators with no clear edge in Stable volatility
+ZTO.US_9 | $2057.00 | 0.39587 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-44.9%)
+LMT.US_9 | $45324.00 | 0.26954 | SELL - Balanced indicators with no clear edge in Stable volatility
+DB1.DE_9 | $25540.00 | 0.48062 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+THS.US_4 | $3065.00 | 0.18037 | STRONG SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum | High historical drawdown risk (-44.4%)
+KOJAMO.FI | $9190.00 | 0.29050 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-41.1%)
+AMBA.US_4 | $5607.00 | 0.20054 | SELL - Negative trend with -25.1% monthly loss and limited reversal signals | High historical drawdown risk (-54.7%)
+DEQ.DE_4 | $1803.00 | 0.20331 | SELL - Strong mean-reverting characteristics (Hurst=0.01) with weak momentum
+BAMI.IT_9 | $9378.00 | 0.46801 | HOLD - Balanced indicators with no clear edge in Stable volatility
+PAAS.US_9 | $2332.00 | 0.38872 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+VEEV.US_4 | $21642.00 | 0.52187 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+EOAN.DE_9 | $12405.00 | 0.63294 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+SHBA.SE_9 | $13250.00 | 0.45678 | HOLD - Balanced indicators with no clear edge in Stable volatility
+GHC.US_9 | $95000.00 | 0.52734 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CAH.US_4 | $12771.00 | 0.43957 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+REGN.US_9 | $68043.00 | 0.28174 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-44.9%)
+SXS.UK_4 | $2640.00 | 0.34700 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+AMN.US | $2534.00 | 0.17485 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-79.4%)
+EUNL.DE | $102110.00 | 0.45934 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+EXO.IT_9 | $9190.00 | 0.51769 | HOLD - Balanced indicators with no clear edge in Stable volatility
+ABNB.US_9 | $14119.00 | 0.47557 | HOLD - Balanced indicators with no clear edge in Rising volatility
+FTNT.US_9 | $10529.00 | 0.49787 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BILI.US_4 | $2096.00 | 0.27353 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-64.4%)
+AME6.DE | $13522.00 | 0.46939 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+AMC.US_9 | $304.00 | 0.19721 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-95.3%)
+SBMO.NL_9 | $19980.00 | 0.48757 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+IDWP.UK | $23575.00 | 0.59706 | HOLD - Balanced indicators with no clear edge in Falling volatility
+MMC.US_9 | $23845.00 | 0.49461 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+RIO.UK_4 | $48292.00 | 0.38545 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+RXP5EX.DE | $1186700.00 | 0.38008 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+ENG.ES_4 | $12380.00 | 0.27822 | SELL - Balanced indicators with no clear edge in Stable volatility
+AMWL.US_4 | $841.00 | 0.28040 | SELL - Negative trend with -20.9% monthly loss and limited reversal signals | High historical drawdown risk (-89.8%)
+UBXN.CH_4 | $7200.00 | 0.22968 | SELL - Mixed signals in high volatility environment - position sizing caution advised | High historical drawdown risk (-50.1%)
+SMDS.UK_9 | $5870.00 | 0.54662 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+TRMDA.DK_9 | $12250.00 | 0.13439 | STRONG SELL - Negative trend with -18.7% monthly loss and limited reversal signals | High historical drawdown risk (-55.7%)
+PFC.UK_9 | $621.00 | 0.20549 | SELL - Negative trend with -17.2% monthly loss and limited reversal signals | High historical drawdown risk (-92.9%)
+MEDP.US_4 | $32405.00 | 0.26600 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+S7XE.DE | $13096.00 | 0.45155 | HOLD - Balanced indicators with no clear edge in Rising volatility
+EMBE.UK | $673640.00 | 0.49934 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BLDR.US | $13126.00 | 0.31171 | SELL - Negative trend with -19.4% monthly loss and limited reversal signals
+NEE.US_9 | $7144.00 | 0.37412 | SELL - Balanced indicators with no clear edge in Stable volatility
+UBSG.CH_4 | $28980.00 | 0.58678 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+JPGL.DE | $37975.00 | 0.46820 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+UNFI.US_9 | $2856.00 | 0.27859 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-78.6%)
+SYDB.DK_9 | $42980.00 | 0.43542 | HOLD - Balanced indicators with no clear edge in Stable volatility
+LQQ.FR | $112220.00 | 0.43962 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CSTL.US_4 | $2139.00 | 0.15905 | STRONG SELL - Negative trend with -25.3% monthly loss and limited reversal signals | High historical drawdown risk (-55.5%)
+EUNW.DE | $951600.00 | 0.55501 | HOLD - Balanced indicators with no clear edge in Falling volatility
+V80D.DE | $33380.00 | 0.41134 | HOLD - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+MMT.FR_4 | $1254.00 | 0.37077 | SELL - Balanced indicators with no clear edge in Stable volatility
+TIP.US_5 | $11010.00 | 0.49255 | HOLD - Balanced indicators with no clear edge in Stable volatility
+ZG.US | $7301.00 | 0.40797 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+OKLO.US | $3191.00 | 0.29083 | SELL - Continued weakness with -30.3% monthly loss in high volatility regime | High historical drawdown risk (-69.4%)
+ZD.US_9 | $4016.00 | 0.17600 | STRONG SELL - Negative trend with -23.4% monthly loss and limited reversal signals | High historical drawdown risk (-49.4%)
+EHDL.DE | $21605.00 | 0.50207 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+XMOV.DE | $88940.00 | 0.56546 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+ZIL2.DE_4 | $4068.00 | 0.12382 | STRONG SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum | High historical drawdown risk (-63.2%)
+SJM.US_4 | $11120.00 | 0.36796 | SELL - Balanced indicators with no clear edge in Stable volatility
+XEC1.DE | $81032.00 | 0.39724 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+2B7K.DE | $11462.00 | 0.47186 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+STNE.US_9 | $916.00 | 0.19092 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-57.6%)
+INRG.UK | $49240.00 | 0.27066 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-48.5%)
+EWG.US_5 | $3710.00 | 0.47792 | HOLD - Balanced indicators with no clear edge in Stable volatility
+PGR.US_9 | $28453.00 | 0.58937 | HOLD - Balanced indicators with no clear edge in Stable volatility
+A4H8.DE | $528120.00 | 0.53196 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ASTS.US | $301100.00 | 0.30226 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-71.3%)
+MDB.US_4 | $25539.00 | 0.28883 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-56.5%)
+IREN.US | $779.00 | 0.19797 | STRONG SELL - Negative trend with -26.8% monthly loss and limited reversal signals | High historical drawdown risk (-63.6%)
+SNBR.US | $1284.00 | 0.23735 | SELL - Negative trend with -24.0% monthly loss and limited reversal signals | High historical drawdown risk (-78.0%)
+SAB.ES_4 | $25730.00 | 0.37653 | SELL - Balanced indicators with no clear edge in Stable volatility
+MNDI.UK_9 | $12000.00 | 0.52953 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+GAP.US_9 | $2029.00 | 0.39170 | SELL - Balanced indicators with no clear edge in Stable volatility
+SLB.US_9 | $3934.00 | 0.25603 | SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum | High historical drawdown risk (-40.8%)
+HK.cash | $23059.00 | 0.59598 | HOLD - Balanced indicators with no clear edge in Falling volatility
+LQDA.UK | $59890.00 | 0.48108 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CAF.ES_9 | $3750.00 | 0.51104 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+NDA.SE_9 | $13795.00 | 0.42189 | HOLD - Balanced indicators with no clear edge in Stable volatility
+EWU.US_5 | $3773.00 | 0.66439 | BUY - Balanced indicators with no clear edge in Stable volatility
+HBAN.US_9 | $1572.00 | 0.41478 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SPP1.DE | $20210.00 | 0.51591 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BITF.US | $11500.00 | 0.18026 | STRONG SELL - Negative trend with -18.4% monthly loss and limited reversal signals | High historical drawdown risk (-69.7%)
+EMR.US_4 | $11549.00 | 0.42407 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+LI7U.DE | $67070.00 | 0.31339 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-47.9%)
+TEL.NO_9 | $14730.00 | 0.50075 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+IESE.NL_9 | $70280.00 | 0.58011 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+UBU3.DE | $1324100.00 | 0.35308 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+LEG.DE_4 | $7778.00 | 0.30258 | SELL - Balanced indicators with no clear edge in Stable volatility
+AZN.UK_4 | $12037.00 | 0.52398 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+IQQD.DE_5 | $93970.00 | 0.42909 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+NWN.US | $4251.00 | 0.53003 | HOLD - Balanced indicators with no clear edge in Stable volatility
+CE.US_9 | $4874.00 | 0.12325 | STRONG SELL - Continued weakness with -29.2% monthly loss in high volatility regime | High historical drawdown risk (-72.6%)
+ESD.FR | $22995.00 | 0.42377 | HOLD - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+DOCS.US_4 | $6857.00 | 0.51194 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-45.8%)
+IRM.US_4 | $8940.00 | 0.31421 | SELL - Balanced indicators with no clear edge in Stable volatility
+IUSC.DE_9 | $12530.00 | 0.54694 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+AMED.DE_9 | $31375.00 | 0.58977 | HOLD - Balanced indicators with no clear edge in Stable volatility
+HUMA.US | $324.00 | 0.25893 | SELL - Negative trend with -24.5% monthly loss and limited reversal signals | High historical drawdown risk (-67.9%)
+MSFT.US_9 | $38995.00 | 0.42667 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ERII.US_9 | $1540.00 | 0.23664 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-59.6%)
+AEME.FR_5 | $676200.00 | 0.52413 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ETFBM40TR.PL | $10226.00 | 0.46517 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+GBPMXN | $265099.00 | 0.69685 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+NNOX.US_4 | $614.00 | 0.18938 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-76.8%)
+JER5.DE | $1061701.00 | 0.47618 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+WPC.US | $6474.00 | 0.43682 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+GOAI.DE | $10020.00 | 0.34866 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+SIGA.US_9 | $542.00 | 0.13020 | STRONG SELL - Strong mean-reverting characteristics (Hurst=0.01) with weak momentum | High historical drawdown risk (-54.9%)
+NFG.US_4 | $7532.00 | 0.47322 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+VFC.US_9 | $2300.00 | 0.21246 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-51.9%)
+CRAYN.NO | $10930.00 | 0.30250 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-48.4%)
+GRG.UK_9 | $1904.00 | 0.24304 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-40.1%)
+SGSN.CH_4 | $9268.00 | 0.56565 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+STM.US_4 | $2438.00 | 0.11697 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-60.1%)
+SIE.DE_9 | $21335.00 | 0.62306 | BUY - Mixed signals in high volatility environment - position sizing caution advised
+XDWS.DE | $48390.00 | 0.52102 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+EUNI.DE | $77710.00 | 0.48112 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+GLE.FR_4 | $38267.00 | 0.51309 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+VBTC.DE | $416680.00 | 0.42308 | HOLD - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+EN.FR_4 | $33420.00 | 0.55894 | HOLD - Balanced indicators with no clear edge in Falling volatility
+ADM.US_4 | $4608.00 | 0.25872 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-48.2%)
+RUI.FR_9 | $2554.00 | 0.40285 | HOLD - Balanced indicators with no clear edge in Stable volatility
+MC.FR_9 | $66400.00 | 0.45021 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+PAG.UK_9 | $7140.00 | 0.54459 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+USDINR | $87432.00 | 0.53288 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+VBK.DE_4 | $8072.00 | 0.19622 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-83.7%)
+GDRX.US_9 | $474.00 | 0.19825 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-55.2%)
+CP.US_9 | $7513.00 | 0.52873 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+PD.US | $1758.00 | 0.22256 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-50.5%)
+IS04.DE | $32603.00 | 0.59671 | HOLD - Balanced indicators with no clear edge in Stable volatility
+LYB.US_4 | $7398.00 | 0.27702 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+PDCO.US_9 | $3114.00 | 0.40756 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-43.0%)
+AVY.US_4 | $18296.00 | 0.31653 | SELL - Balanced indicators with no clear edge in Stable volatility
+1COV.DE_9 | $580400.00 | 0.40634 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+GLD.US_5 | $26855.00 | 0.64216 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+VFF.US | $6916.00 | 0.18564 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-56.4%)
+CEY.UK_4 | $14540.00 | 0.44117 | HOLD - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+CINE.UK_9 | $36.00 | 0.10002 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-88.3%) | Negative expectancy (Kelly=-0.29)
+LOCAL.FR_9 | $2197.00 | 0.24646 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-99.4%) | Strong positive expectancy (Kelly=0.33)
+DE.US_4 | $45844.00 | 0.68182 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+ROG.US | $7515.00 | 0.15805 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-56.9%)
+CGCBV.FI_4 | $4529.00 | 0.34674 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-48.2%)
+LSG.NO_9 | $5040.00 | 0.51502 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SYBZ.DE | $239430.00 | 0.52132 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+KYBER | $3530.00 | 0.15238 | STRONG SELL - Continued weakness with -18.3% monthly loss in high volatility regime | High historical drawdown risk (-67.8%)
+TKTT.FR_4 | $1587.00 | 0.50519 | HOLD - Strong but potentially overextended momentum in Stable volatility regime
+MVC.ES_4 | $9540.00 | 0.45705 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+INO.US_9 | $194.00 | 0.17887 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-87.2%)
+ILMN.US_4 | $8400.00 | 0.12097 | STRONG SELL - Negative trend with -35.6% monthly loss and limited reversal signals | High historical drawdown risk (-63.8%)
+CEB9.DE | $27145.00 | 0.57355 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BBOX.UK_9 | $14760.00 | 0.41054 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+LPX.US_4 | $9508.00 | 0.27415 | SELL - Negative trend with -19.2% monthly loss and limited reversal signals
+HFD.UK_4 | $1212.00 | 0.32196 | SELL - Negative trend with -15.3% monthly loss and limited reversal signals | High historical drawdown risk (-48.9%)
+IFFF.UK_5 | $430000.00 | 0.48607 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SAFE.UK_4 | $6085.00 | 0.18245 | STRONG SELL - Balanced indicators with no clear edge in Falling volatility | High historical drawdown risk (-99.4%) | Negative expectancy (Kelly=-0.23)
+COHR.US_9 | $6956.00 | 0.28975 | SELL - Negative trend with -20.5% monthly loss and limited reversal signals | High historical drawdown risk (-47.7%)
+VSAT.US_4 | $851.00 | 0.20742 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-85.5%)
+CHNComp | $6185.00 | 0.67131 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+THC.US_9 | $12280.00 | 0.33598 | SELL - Negative trend with -15.1% monthly loss and limited reversal signals
+PUIG.ES | $17855.00 | 0.22203 | SELL - Balanced indicators with no clear edge in Stable volatility
+IROB.DE | $20695.00 | 0.38266 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+SHY.US_5 | $8231.00 | 0.53678 | HOLD - Balanced indicators with no clear edge in Stable volatility
+PNDORA.DK_9 | $121050.00 | 0.48143 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ALV.US_4 | $9220.00 | 0.31157 | SELL - Balanced indicators with no clear edge in Stable volatility
+NTGY.ES_4 | $2470.00 | 0.52467 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+AO.UK_9 | $9610.00 | 0.28614 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+SMWH.UK_9 | $10850.00 | 0.23887 | SELL - Negative trend with -15.2% monthly loss and limited reversal signals
+WBD.US_9 | $1132.00 | 0.38324 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-56.3%)
+BHP.UK_4 | $19071.00 | 0.42819 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+LYTR.DE | $24815.00 | 0.59726 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CCAU.UK | $20090.00 | 0.49213 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+GFI.US_9 | $1903.00 | 0.40545 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-40.3%)
+LGEN.UK_9 | $24040.00 | 0.48277 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+EQEU.DE | $35420.00 | 0.45366 | HOLD - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+XDDX.DE | $14510.00 | 0.51486 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+KKR.US_9 | $12000.00 | 0.41848 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+VUSA.UK_9 | $856975.00 | 0.32538 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+V80A.DE | $36205.00 | 0.45567 | HOLD - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+PR.US_9 | $1254.00 | 0.32311 | SELL - Balanced indicators with no clear edge in Rising volatility
+NOV.US_9 | $1414.00 | 0.28529 | SELL - Balanced indicators with no clear edge in Rising volatility
+VWS.DK_9 | $9718.00 | 0.19618 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-56.8%)
+JUP.UK_4 | $7440.00 | 0.16455 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-51.7%)
+SDY.UK | $1900.00 | 0.17816 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-75.2%)
+ELI.BE_9 | $6430.00 | 0.17842 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-51.3%)
+TDG.US_9 | $134765.00 | 0.48848 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+RDSA.NL_4 | $31093.00 | 0.60775 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+DPZ.US_4 | $48092.00 | 0.62752 | BUY - Balanced indicators with no clear edge in Stable volatility
+CPA.US_4 | $9221.00 | 0.48625 | HOLD - Balanced indicators with no clear edge in Stable volatility
+BDX.US_4 | $22402.00 | 0.43015 | HOLD - Balanced indicators with no clear edge in Rising volatility
+XEOD.DE | $1266261.00 | 0.44440 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BA.UK_4 | $15631.00 | 0.62281 | BUY - Strong momentum with +29.3% monthly gain, elevated reversion risk but strong trend continues
+SAVE.US_4 | $105.00 | 0.17666 | STRONG SELL - Continued weakness with -27.6% monthly loss in high volatility regime | High historical drawdown risk (-94.6%)
+RJF.ES | $2610.00 | 0.40616 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+TEP.FR_9 | $9514.00 | 0.20854 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-67.9%)
+UET0.DE | $149230.00 | 0.47694 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+TYRES.FI_4 | $6156.00 | 0.29410 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+ELMRA.NO | $3160.00 | 0.17069 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-56.9%)
+KFY.US_9 | $6407.00 | 0.40119 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+IDR.ES_9 | $23720.00 | 0.59610 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+RCKT.US_4 | $863.00 | 0.19109 | STRONG SELL - Negative trend with -18.2% monthly loss and limited reversal signals | High historical drawdown risk (-72.8%)
+HL.US_9 | $510.00 | 0.23837 | SELL - Balanced indicators with no clear edge in Rising volatility | High historical drawdown risk (-51.2%)
+XMAW.DE | $39625.00 | 0.38732 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+ALGM.US_9 | $2503.00 | 0.23334 | SELL - Mixed signals in high volatility environment - position sizing caution advised | High historical drawdown risk (-63.8%)
+ADP.US_4 | $31291.00 | 0.53901 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BFB.US_9 | $3260.00 | 0.14793 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-56.9%)
+GBPJPY | $191651.00 | 0.50155 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+VET.US_9 | $769.00 | 0.17846 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-50.9%)
+AME.US_4 | $18293.00 | 0.52391 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SPY4.DE_9 | $85780.00 | 0.42963 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+TEMN.CH_9 | $7145.00 | 0.43062 | HOLD - Strong mean-reverting characteristics (Hurst=0.01) with weak momentum
+GLGG.UK | $13744.00 | 0.29226 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-100.0%) | Strong positive expectancy (Kelly=0.47)
+CB.US_9 | $28399.00 | 0.49241 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+FIGS.US | $480.00 | 0.19873 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-49.1%)
+T.US_4 | $2614.00 | 0.47326 | HOLD - Balanced indicators with no clear edge in Stable volatility
+1SXP.DE | $2366.00 | 0.25795 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-43.9%)
+LH.US_9 | $25619.00 | 0.51722 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+GAS.ES_9 | $2474.00 | 0.44664 | HOLD - Balanced indicators with no clear edge in Stable volatility
+BRZE.US | $3573.00 | 0.21812 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum | High historical drawdown risk (-50.1%)
+IVOA.DE | $55042.00 | 0.56767 | HOLD - Balanced indicators with no clear edge in Stable volatility
+RACE.US_9 | $45918.00 | 0.56042 | HOLD - Balanced indicators with no clear edge in Rising volatility
+LKQ.US_4 | $4201.00 | 0.39954 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+HLX.US | $776.00 | 0.26242 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+IUS5.DE_9 | $1480950.00 | 0.50694 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+MOCORP.FI_9 | $10165.00 | 0.38840 | SELL - Balanced indicators with no clear edge in Stable volatility
+XD9U.UK | $1671600.00 | 0.58405 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+GPC.US_4 | $12282.00 | 0.28521 | SELL - Balanced indicators with no clear edge in Falling volatility
+BA.UK_9 | $15655.00 | 0.68868 | BUY - Strong momentum with +29.3% monthly gain, elevated reversion risk but strong trend continues
+ABI.BE_4 | $58490.00 | 0.60267 | BUY - Good momentum with +24.4% monthly gain but increasing volatility, monitor closely
+RS1.UK_9 | $5805.00 | 0.23048 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum | High historical drawdown risk (-40.6%)
+PPL.US_4 | $3464.00 | 0.48721 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+AGS.BE_4 | $5262.00 | 0.48159 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+DNO.NO_4 | $11250.00 | 0.41479 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+WELW.DE | $11268.00 | 0.47385 | HOLD - Balanced indicators with no clear edge in Stable volatility
+HUM.US_9 | $26194.00 | 0.20457 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-56.4%)
+DAPP.UK | $7398.00 | 0.34027 | SELL - Negative trend with -30.7% monthly loss and limited reversal signals | High historical drawdown risk (-47.5%)
+18M2.DE | $16878.00 | 0.38153 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+TWLO.US_9 | $11470.00 | 0.45064 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+EMGA.UK | $48960.00 | 0.43177 | HOLD - Strong mean-reverting characteristics (Hurst=0.01) with weak momentum
+TUP.US_9 | $4800.00 | 0.16330 | STRONG SELL - Continued weakness with -59.0% monthly loss in high volatility regime | High historical drawdown risk (-91.0%)
+CBRE.US_4 | $13939.00 | 0.67226 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+ETFBSPXPL.PL | $9916.00 | 0.37744 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+SSPG.UK_4 | $16290.00 | 0.35687 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum | High historical drawdown risk (-48.8%)
+SYBA.DE | $549660.00 | 0.46672 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+WULF.US | $347.00 | 0.24378 | SELL - Negative trend with -30.5% monthly loss and limited reversal signals | High historical drawdown risk (-75.7%)
+MODR.DE | $59540.00 | 0.54989 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+VPK.NL_4 | $4047.00 | 0.38880 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+SLVM.US_9 | $6732.00 | 0.43600 | HOLD - Balanced indicators with no clear edge in Stable volatility
+WBA.US_9 | $1082.00 | 0.22200 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-77.4%)
+PIN.US | $2306.00 | 0.36621 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+COG.US_4 | $2644.00 | 0.51713 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+PRGS.US_9 | $5492.00 | 0.48575 | HOLD - Balanced indicators with no clear edge in Stable volatility
+IOT.US_9 | $4409.00 | 0.35072 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+CCEP.US_9 | $8577.00 | 0.53385 | HOLD - Balanced indicators with no clear edge in Stable volatility
+BONEX.SE | $35940.00 | 0.44679 | HOLD - Balanced indicators with no clear edge in Rising volatility
+WTEM.DE | $38895.00 | 0.43892 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ZPR6.DE | $294770.00 | 0.56923 | HOLD - Balanced indicators with no clear edge in Stable volatility
+FUBO.US_9 | $30000.00 | 0.24474 | SELL - Continued weakness with -27.7% monthly loss in high volatility regime | High historical drawdown risk (-68.4%)
+XP.US_9 | $1405.00 | 0.15758 | STRONG SELL - Balanced indicators with no clear edge in Falling volatility | High historical drawdown risk (-59.8%)
+GDDY.US_9 | $17632.00 | 0.48430 | HOLD - Balanced indicators with no clear edge in Rising volatility
+XDWD.UK | $11754.00 | 0.45513 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+DX.US_9 | $1384.00 | 0.53476 | HOLD - Balanced indicators with no clear edge in Stable volatility
+TSM.US_4 | $17990.00 | 0.37105 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+CTT.PT_9 | $6820.00 | 0.52091 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+JBLU.US_4 | $607.00 | 0.24123 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-60.6%)
+KGF.UK_4 | $24290.00 | 0.32855 | SELL - Balanced indicators with no clear edge in Falling volatility
+SNA.US_4 | $32874.00 | 0.47712 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+COFA.FR_4 | $16280.00 | 0.64431 | BUY - Balanced indicators with no clear edge in Stable volatility
+TEL.US_9 | $14793.00 | 0.57804 | HOLD - Balanced indicators with no clear edge in Stable volatility
+ETH.IT_9 | $7940.00 | 0.19072 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-80.9%)
+CVC.NL | $20960.00 | 0.54405 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+NTES.US_9 | $10045.00 | 0.49512 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+LI.FR_4 | $3001.00 | 0.59475 | HOLD - Balanced indicators with no clear edge in Stable volatility
+GALA | $1746.00 | 0.17812 | STRONG SELL - Negative trend with -23.8% monthly loss and limited reversal signals | High historical drawdown risk (-80.8%)
+WDFC.US_9 | $23665.00 | 0.47654 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CTAS.US_9 | $20417.00 | 0.51877 | HOLD - Balanced indicators with no clear edge in Falling volatility
+MMS.US_4 | $6723.00 | 0.29072 | SELL - Balanced indicators with no clear edge in Rising volatility
+ARW.US_4 | $10420.00 | 0.37933 | SELL - Balanced indicators with no clear edge in Stable volatility
+LLY.DE | $86070.00 | 0.44177 | HOLD - Balanced indicators with no clear edge in Stable volatility
+BRKB.US_4 | $49492.00 | 0.48703 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+RGNX.US_4 | $587.00 | 0.19760 | STRONG SELL - Negative trend with -24.5% monthly loss and limited reversal signals | High historical drawdown risk (-76.1%)
+QDIV.UK | $509700.00 | 0.44378 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+UBUD.DE | $21925.00 | 0.55089 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SXEPEX.DE | $34730.00 | 0.54499 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+IUMO.UK | $146900.00 | 0.51490 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SU.FR_4 | $21712.00 | 0.37134 | SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+NIO.US_9 | $421.00 | 0.18931 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-76.2%)
+DTE.DE_9 | $35270.00 | 0.65139 | BUY - Balanced indicators with no clear edge in Stable volatility
+STRL.US | $12160.00 | 0.33930 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-45.6%)
+STLA.US_4 | $1178.00 | 0.17348 | STRONG SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum | High historical drawdown risk (-59.9%)
+ZURN.CH_4 | $59510.00 | 0.59464 | HOLD - Balanced indicators with no clear edge in Stable volatility
+ORP.FR_9 | $109500.00 | 0.34425 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-99.0%) | Strong positive expectancy (Kelly=0.41)
+AQB.US | $6653.00 | 0.17926 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-88.2%)
+III.UK_9 | $38530.00 | 0.43942 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+XDPU.DE | $104060.00 | 0.53102 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+TGI.US_9 | $2523.00 | 0.46155 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-43.4%)
+TRV.US_4 | $25550.00 | 0.56515 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CAN.US | $120.00 | 0.14965 | STRONG SELL - Negative trend with -38.1% monthly loss and limited reversal signals | High historical drawdown risk (-76.3%)
+S0LR.DE | $15548.00 | 0.20449 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-60.4%)
+DB.US | $2099.00 | 0.50603 | HOLD - Balanced indicators with no clear edge in Stable volatility
+MSE.FR | $58260.00 | 0.53962 | HOLD - Balanced indicators with no clear edge in Rising volatility
+HLN.UK_9 | $41660.00 | 0.46033 | HOLD - Balanced indicators with no clear edge in Rising volatility
+SRC.US | $4230.00 | 0.52301 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+MXUK.DE | $39145.00 | 0.44703 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BOL.SE_9 | $36660.00 | 0.46294 | HOLD - Balanced indicators with no clear edge in Rising volatility
+CVS.US_4 | $6411.00 | 0.51587 | HOLD - Balanced indicators with no clear edge in Rising volatility | High historical drawdown risk (-47.3%)
+SBS.US | $1598.00 | 0.47828 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CEG.US_4 | $22994.00 | 0.37728 | SELL - Negative trend with -24.5% monthly loss and limited reversal signals
+TSE.US_4 | $459.00 | 0.30590 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-91.5%)
+TSCO.UK_4 | $38690.00 | 0.55583 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SVT.UK_9 | $25060.00 | 0.45259 | HOLD - Balanced indicators with no clear edge in Stable volatility
+PTCT.US | $5180.00 | 0.32097 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-69.1%)
+QD.US | $265.00 | 0.43530 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+KLAC.US_9 | $69912.00 | 0.34095 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+DLTR.US_4 | $6660.00 | 0.17786 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-61.9%)
+CBG.UK_9 | $3366.00 | 0.25125 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-83.2%)
+CCL.UK_9 | $15395.00 | 0.35489 | SELL - Negative trend with -20.3% monthly loss and limited reversal signals | High historical drawdown risk (-40.1%)
+TRI.FR_4 | $12680.00 | 0.62911 | BUY - Balanced indicators with no clear edge in Stable volatility
+RACE.IT_4 | $43070.00 | 0.41222 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+UHS.US_4 | $17298.00 | 0.32668 | SELL - Balanced indicators with no clear edge in Stable volatility
+CVNA.US_9 | $21547.00 | 0.27792 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-53.5%)
+ITRK.UK_9 | $5375.00 | 0.59778 | HOLD - Balanced indicators with no clear edge in Stable volatility
+LUMI.SE_9 | $8100.00 | 0.39572 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-41.8%)
+IEEM.DE_5 | $40150.00 | 0.58922 | HOLD - Balanced indicators with no clear edge in Stable volatility
+TDVOX.SE | $6050.00 | 0.46688 | HOLD - Balanced indicators with no clear edge in Stable volatility
+S.US_9 | $1987.00 | 0.40589 | HOLD - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-43.9%)
+RAL.FR | $441.00 | 0.20204 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-99.2%)
+FHI.US_9 | $3776.00 | 0.32978 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+MAA.US_9 | $16768.00 | 0.51593 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+DIA.ES_9 | $178000.00 | 0.61916 | BUY - Strong momentum with +100465.0% monthly gain, elevated reversion risk but strong trend continues | Strong positive expectancy (Kelly=0.37)
+SBE.US | $6600.00 | 0.16782 | STRONG SELL - Continued weakness with -28.3% monthly loss in high volatility regime | High historical drawdown risk (-94.5%)
+PCELL.SE | $2816.00 | 0.16600 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-91.3%)
+EVO.SE_9 | $81660.00 | 0.27009 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum | High historical drawdown risk (-45.7%)
+IQSA.DE | $73070.00 | 0.54495 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+TEL2B.SE_9 | $12670.00 | 0.38772 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+MRNA.US_9 | $3040.00 | 0.16625 | STRONG SELL - Negative trend with -16.8% monthly loss and limited reversal signals | High historical drawdown risk (-81.8%)
+ENT.UK_9 | $7288.00 | 0.23273 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-65.9%)
+PDL.UK_9 | $2820.00 | 0.15073 | STRONG SELL - Balanced indicators with no clear edge in Falling volatility | High historical drawdown risk (-71.1%)
+EXR.US_4 | $15334.00 | 0.33041 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+IPDM.UK | $256250.00 | 0.33921 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-48.1%)
+UDR.US_9 | $4541.00 | 0.61977 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+USDSEK | $104186.00 | 0.39553 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+ZARJPY | $8087.00 | 0.49909 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+IMB.UK_4 | $28170.00 | 0.51989 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+RED.ES_4 | $17260.00 | 0.36889 | SELL - Balanced indicators with no clear edge in Stable volatility
+PII.US_9 | $4097.00 | 0.11217 | STRONG SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum | High historical drawdown risk (-70.0%)
+AIG.US_9 | $7975.00 | 0.45564 | HOLD - Balanced indicators with no clear edge in Stable volatility
+KOSP200 | $3425.00 | 0.35858 | SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+PLUS.UK_4 | $2809.00 | 0.57560 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+MCG.UK_9 | $6280.00 | 0.20574 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-67.7%)
+SNAZ.DE | $48974.00 | 0.43798 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+LVO.NL | $10548.00 | 0.27476 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-67.6%)
+DPYE.UK | $57680.00 | 0.44490 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+XDG6.DE | $35145.00 | 0.39156 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+COLOB.DK_9 | $76860.00 | 0.40513 | HOLD - Balanced indicators with no clear edge in Stable volatility
+SUI20 | $13013.00 | 0.52016 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+HYQ.DE_9 | $18440.00 | 0.24323 | SELL - Mixed signals in high volatility environment - position sizing caution advised | High historical drawdown risk (-51.7%)
+AGG.US_5 | $9876.00 | 0.50332 | HOLD - Balanced indicators with no clear edge in Stable volatility
+CNYA.UK | $45380.00 | 0.51841 | HOLD - Balanced indicators with no clear edge in Falling volatility
+NEM.US_4 | $4243.00 | 0.41155 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-42.7%)
+AGGU.UK | $56200.00 | 0.61862 | BUY - Balanced indicators with no clear edge in Stable volatility
+SSYS.US_9 | $1059.00 | 0.26136 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-71.0%)
+TLYS.US | $398.00 | 0.21103 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-64.0%)
+DLB.US_4 | $8042.00 | 0.52545 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+LLOY.UK_4 | $7135.00 | 0.58932 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+AI.FR_9 | $17760.00 | 0.47065 | HOLD - Balanced indicators with no clear edge in Stable volatility
+CHD.US_9 | $11065.00 | 0.49126 | HOLD - Balanced indicators with no clear edge in Stable volatility
+NDSN.US_4 | $20565.00 | 0.24474 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+ARI.US_4 | $990.00 | 0.40244 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+MAXN.US_4 | $316.00 | 0.20546 | SELL - Negative trend with -43.9% monthly loss and limited reversal signals | High historical drawdown risk (-99.9%)
+E15G.DE | $1532050.00 | 0.51788 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+36B3.DE | $76000.00 | 0.50533 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+KNEBV.FI_9 | $54920.00 | 0.50043 | HOLD - Balanced indicators with no clear edge in Stable volatility
+VIRI.FR_9 | $6144.00 | 0.33117 | SELL - Balanced indicators with no clear edge in Rising volatility | High historical drawdown risk (-59.8%)
+FLOW.NL_4 | $2538.00 | 0.39889 | SELL - Balanced indicators with no clear edge in Rising volatility | High historical drawdown risk (-44.0%)
+MS.US_4 | $12143.00 | 0.39037 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+ALNY.US_9 | $24292.00 | 0.32230 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+AEE.US_9 | $9995.00 | 0.53030 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+PRX.NL_9 | $42405.00 | 0.32190 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-64.3%)
+IEEM.DE_9 | $40211.00 | 0.48167 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+GD.US_9 | $25068.00 | 0.44242 | HOLD - Balanced indicators with no clear edge in Stable volatility
+ELV.US_9 | $39729.00 | 0.24878 | SELL - Balanced indicators with no clear edge in Stable volatility
+XDEW.UK | $95260.00 | 0.39992 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+PG.US_4 | $17274.00 | 0.56060 | HOLD - Balanced indicators with no clear edge in Stable volatility
+NXI.FR_9 | $10030.00 | 0.15622 | STRONG SELL - Negative trend with -21.8% monthly loss and limited reversal signals | High historical drawdown risk (-67.4%)
+AKERBP.NO_4 | $21690.00 | 0.38933 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+FWONA.US_4 | $8360.00 | 0.53456 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+BEZ.UK_9 | $8870.00 | 0.68839 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+QTCOM.FI | $8080.00 | 0.38094 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-47.4%)
+PSA.US_9 | $30592.00 | 0.38989 | SELL - Balanced indicators with no clear edge in Stable volatility
+REY.IT_4 | $14960.00 | 0.38063 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+888.UK_4 | $6415.00 | 0.24018 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-69.1%)
+GLEN.UK_4 | $31028.00 | 0.29860 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+HOLMB.SE_4 | $41610.00 | 0.60347 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+MS.US_9 | $12162.00 | 0.46556 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+WFC.US_9 | $7327.00 | 0.56011 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CHFPLN | $44071.00 | 0.37645 | SELL - Balanced indicators with no clear edge in Rising volatility
+ENSG.US_9 | $12945.00 | 0.28656 | SELL - Balanced indicators with no clear edge in Rising volatility
+NWBI.US_4 | $1226.00 | 0.47481 | HOLD - Balanced indicators with no clear edge in Stable volatility
+CHRG.UK | $23800.00 | 0.42080 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-40.1%)
+VIV.US_9 | $821.00 | 0.30325 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+JDEP.NL_9 | $18340.00 | 0.28147 | SELL - Balanced indicators with no clear edge in Falling volatility | High historical drawdown risk (-42.7%)
+EUN3.DE | $849080.00 | 0.53686 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+RDSA.UK_9 | $25640.00 | 0.57628 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+BBTR.DE | $987960.00 | 0.46346 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+XCAC.DE | $81250.00 | 0.42964 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+DKS.US_4 | $21162.00 | 0.34977 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+VSH.US | $1693.00 | 0.28385 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-49.5%)
+PEG.US_4 | $8130.00 | 0.42826 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+PNR.US_4 | $8949.00 | 0.44440 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+WEC.US_9 | $10534.00 | 0.56962 | HOLD - Balanced indicators with no clear edge in Stable volatility
+VIST.US_4 | $4597.00 | 0.35253 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+MDAXEX.DE | $23045.00 | 0.53885 | HOLD - Balanced indicators with no clear edge in Rising volatility
+DIN.US_4 | $2346.00 | 0.17800 | STRONG SELL - Negative trend with -22.0% monthly loss and limited reversal signals | High historical drawdown risk (-68.0%)
+AIGI.UK | $155200.00 | 0.57294 | HOLD - Balanced indicators with no clear edge in Stable volatility
+XEMB.DE | $2982800.00 | 0.40459 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CACC.US_9 | $46294.00 | 0.54485 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+EZJ.UK_4 | $47640.00 | 0.25196 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+CAT.US_9 | $32649.00 | 0.32230 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+REP1.ES_4 | $11802.00 | 0.36681 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+XPEL.US_4 | $2992.00 | 0.10787 | STRONG SELL - Negative trend with -25.2% monthly loss and limited reversal signals | High historical drawdown risk (-65.1%)
+LYFT.US_9 | $1241.00 | 0.24895 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-55.1%)
+DGE.UK_9 | $21380.00 | 0.25542 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-43.9%)
+OLN.US_9 | $2352.00 | 0.10919 | STRONG SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum | High historical drawdown risk (-60.6%)
+SAN1.ES_4 | $59000.00 | 0.50251 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+AMRS.US_4 | $2.99 | 0.15862 | STRONG SELL - Continued weakness with -40.1% monthly loss in high volatility regime | High historical drawdown risk (-97.9%) | Negative expectancy (Kelly=-0.27)
+LYXC.DE | $1576400.00 | 0.56879 | HOLD - Balanced indicators with no clear edge in Stable volatility
+SRRK.US_4 | $3691.00 | 0.27139 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-65.2%)
+PR1P.DE | $167580.00 | 0.41859 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+IEMB.UK | $8915.00 | 0.51955 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CRUD.UK | $94160.00 | 0.45466 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BGNE.US_9 | $25673.00 | 0.29833 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-51.5%)
+STB.NO_4 | $12140.00 | 0.54188 | HOLD - Balanced indicators with no clear edge in Rising volatility
+CMCX.UK_9 | $2075.00 | 0.29655 | SELL - Balanced indicators with no clear edge in Falling volatility | High historical drawdown risk (-64.4%)
+MF.FR_9 | $9365.00 | 0.37937 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+XYLD.US | $4068.00 | 0.26944 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+EHBD.DE | $392870.00 | 0.73018 | BUY - Balanced indicators with no clear edge in Falling volatility
+HON.US_4 | $20706.00 | 0.38387 | SELL - Balanced indicators with no clear edge in Stable volatility
+WEBI.DE | $41440.00 | 0.51043 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+RUN.US_9 | $671.00 | 0.19006 | STRONG SELL - Negative trend with -23.5% monthly loss and limited reversal signals | High historical drawdown risk (-75.4%)
+TER.US_9 | $10723.00 | 0.33252 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+DFOB.DE | $1392550.00 | 0.48332 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BHF.US_4 | $5466.00 | 0.44577 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ALK.US_4 | $6505.00 | 0.50361 | HOLD - Potential stabilization after -11.4% monthly decline, monitor for trend change | High historical drawdown risk (-44.9%)
+LNT.US_9 | $6407.00 | 0.61531 | BUY - Balanced indicators with no clear edge in Stable volatility
+AES.US | $1081.00 | 0.14270 | STRONG SELL - Mixed signals in high volatility environment - position sizing caution advised | High historical drawdown risk (-61.1%)
+TOL.US_9 | $10781.00 | 0.34735 | SELL - Negative trend with -17.7% monthly loss and limited reversal signals
+SNDL.US | $15700.00 | 0.32559 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-41.1%)
+ARRY.US_9 | $562.00 | 0.18078 | STRONG SELL - Negative trend with -19.8% monthly loss and limited reversal signals | High historical drawdown risk (-80.4%)
+RCRS.DE | $79850.00 | 0.57732 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+36BA.DE | $40586.00 | 0.51235 | HOLD - Balanced indicators with no clear edge in Stable volatility
+GOLD | $290633.00 | 0.58320 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SFIX.US_4 | $439.00 | 0.20904 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-61.3%)
+RLF.CH | $3100.00 | 0.20477 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-86.9%) | Strong positive expectancy (Kelly=0.36)
+18MK.DE | $84860.00 | 0.49535 | HOLD - Balanced indicators with no clear edge in Stable volatility
+IWVL.UK_5 | $448300.00 | 0.46340 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ONTO.US_9 | $13525.00 | 0.43615 | HOLD - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-43.1%)
+EME.US_9 | $38805.00 | 0.44254 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+EGHT.US_9 | $237.00 | 0.25883 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-70.3%)
+GPE.UK_9 | $2675.00 | 0.15508 | STRONG SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum | High historical drawdown risk (-53.7%)
+BTRW.UK_4 | $41640.00 | 0.16840 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-99.3%)
+ADEA.US_9 | $1498.00 | 0.44711 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SPWR.US_4 | $1156.00 | 0.11722 | STRONG SELL - Continued weakness with -92.2% monthly loss in high volatility regime | High historical drawdown risk (-99.3%)
+BVN.US | $1306.00 | 0.44733 | HOLD - Balanced indicators with no clear edge in Stable volatility
+KER.FR_9 | $25445.00 | 0.25342 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-65.4%)
+DCC.UK_4 | $5207.00 | 0.52880 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+FROG.US_4 | $3568.00 | 0.44555 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-48.2%)
+BTI.US_9 | $3961.00 | 0.67255 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+DJDVPEX.DE | $90760.00 | 0.53000 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+GTT.FR_9 | $14580.00 | 0.40600 | HOLD - Balanced indicators with no clear edge in Rising volatility
+NLS.US_4 | $1.00 | 0.11700 | STRONG SELL - Negative trend with -95.2% monthly loss and limited reversal signals | High historical drawdown risk (-100.0%)
+PG.US_9 | $17300.00 | 0.50415 | HOLD - Balanced indicators with no clear edge in Stable volatility
+REC.IT_4 | $5421.00 | 0.57579 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BVI.FR_4 | $2879.00 | 0.39641 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+RGEN.US_9 | $15419.00 | 0.44381 | HOLD - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-42.7%)
+LEN.US_9 | $11884.00 | 0.23023 | SELL - Balanced indicators with no clear edge in Stable volatility
+MASI.US_9 | $18320.00 | 0.32905 | SELL - Balanced indicators with no clear edge in Rising volatility | High historical drawdown risk (-60.9%)
+CPR.IT_9 | $5858.00 | 0.19421 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-60.2%)
+TPL.US_9 | $136343.00 | 0.52134 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+LDOS.US_9 | $13182.00 | 0.42379 | HOLD - Balanced indicators with no clear edge in Stable volatility
+GPK.US_4 | $2578.00 | 0.43510 | HOLD - Balanced indicators with no clear edge in Stable volatility
+BNR.DE_4 | $6208.00 | 0.41099 | HOLD - Balanced indicators with no clear edge in Stable volatility
+WMAT.NL | $56300.00 | 0.42893 | HOLD - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+SAN.FR_4 | $109010.00 | 0.66699 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+IBE1.ES_4 | $13664.00 | 0.38791 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+AML.UK_4 | $7368.00 | 0.17879 | STRONG SELL - Continued weakness with -29.6% monthly loss in high volatility regime | High historical drawdown risk (-81.3%)
+SX7PEX.DE | $25090.00 | 0.54035 | HOLD - Balanced indicators with no clear edge in Rising volatility | Strong positive expectancy (Kelly=0.30)
+EFGN.CH_4 | $1385.00 | 0.65472 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+BYD.US_4 | $7217.00 | 0.49424 | HOLD - Strong mean-reverting characteristics (Hurst=0.01) with weak momentum
+GBLB.BE_9 | $6930.00 | 0.47546 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ESIN.DE | $76350.00 | 0.53822 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+AIT.US_4 | $22900.00 | 0.46188 | HOLD - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+SH.US_5 | $4342.00 | 0.40530 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+XB29.DE | $260800.00 | 0.52487 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SPF1.DE | $395570.00 | 0.56185 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+IWFV.UK | $352400.00 | 0.45257 | HOLD - Mixed signals in high volatility environment - position sizing caution advised
+IFF.US_9 | $7984.00 | 0.31365 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+LI.FR_9 | $3006.00 | 0.57588 | HOLD - Balanced indicators with no clear edge in Stable volatility
+NIU.US | $22900.00 | 0.27815 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-64.8%)
+XREA.DE | $54010.00 | 0.44623 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+OPCH.US_9 | $3412.00 | 0.46045 | HOLD - Balanced indicators with no clear edge in Falling volatility
+ZSRI.DE | $29820.00 | 0.55656 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+AIR.ES_9 | $17404.00 | 0.50110 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+OXY.US_9 | $4653.00 | 0.28366 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+OCSL.US | $1611.00 | 0.30252 | SELL - Balanced indicators with no clear edge in Stable volatility
+TATE.UK_9 | $5295.00 | 0.23413 | SELL - Negative trend with -18.4% monthly loss and limited reversal signals
+PDD.US_4 | $11323.00 | 0.42880 | HOLD - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-43.4%)
+PMO.UK_9 | $21640.00 | 0.29724 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+FRES.UK_9 | $8215.00 | 0.54063 | HOLD - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-45.0%)
+WWD.US_9 | $17780.00 | 0.41849 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+FRVIA.FR_9 | $7766.00 | 0.16860 | STRONG SELL - Continued weakness with -19.6% monthly loss in high volatility regime | High historical drawdown risk (-70.2%)
+CRL.US_9 | $16396.00 | 0.36118 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-44.6%)
+AMS.ES_4 | $7478.00 | 0.68773 | BUY - Balanced indicators with no clear edge in Rising volatility
+GRF.ES_9 | $11130.00 | 0.33281 | SELL - Strong but potentially overextended momentum in Stable volatility regime | High historical drawdown risk (-55.6%)
+SEI.US_4 | $2828.00 | 0.34972 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-40.3%)
+TXG.US | $1052.00 | 0.19453 | STRONG SELL - Negative trend with -27.1% monthly loss and limited reversal signals | High historical drawdown risk (-84.3%)
+TRP.US_4 | $4498.00 | 0.51863 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+NOLAB.SE | $6025.00 | 0.29189 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+MP.US_9 | $2239.00 | 0.33765 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-68.5%)
+GIII.US_9 | $2538.00 | 0.37244 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+ERNX.DE | $54172.00 | 0.56328 | HOLD - Balanced indicators with no clear edge in Stable volatility | Strong positive expectancy (Kelly=0.45)
+OSTK.US | $588.00 | 0.23081 | SELL - Negative trend with -19.3% monthly loss and limited reversal signals | High historical drawdown risk (-87.8%)
+AUTO.UK_4 | $7892.00 | 0.34662 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+NIBEB.SE | $41610.00 | 0.13151 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-68.8%)
+ETFBNQ3L.PL | $85530.00 | 0.48723 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ZPRR.DE | $56820.00 | 0.35450 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+EWJ.US_5 | $6857.00 | 0.55966 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+HD.US_4 | $38095.00 | 0.35489 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+FLUT.US | $26551.00 | 0.59022 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-47.4%)
+EBUY.DE | $15970.00 | 0.46828 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CTSH.US_9 | $8379.00 | 0.50946 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+RKT.UK_4 | $5220.00 | 0.59638 | HOLD - Balanced indicators with no clear edge in Falling volatility
+CNA.UK_9 | $14820.00 | 0.44536 | HOLD - Balanced indicators with no clear edge in Rising volatility
+E.US | $2805.00 | 0.39300 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+PATH.US_9 | $1179.00 | 0.19648 | STRONG SELL - Negative trend with -17.0% monthly loss and limited reversal signals | High historical drawdown risk (-60.0%)
+XLPE.DE | $13974.00 | 0.50783 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+TCH.FR_9 | $1690.00 | 0.29638 | SELL - Strong but potentially overextended momentum in Stable volatility regime | High historical drawdown risk (-63.4%)
+REXR.US | $4041.00 | 0.34197 | SELL - Balanced indicators with no clear edge in Stable volatility
+H4ZA.DE | $57710.00 | 0.45580 | HOLD - Balanced indicators with no clear edge in Rising volatility
+NEM.DE_9 | $11500.00 | 0.60174 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+JAGX.US | $5500.00 | 0.21259 | SELL - Negative trend with -33.5% monthly loss and limited reversal signals | High historical drawdown risk (-99.4%)
+CLNX.ES_4 | $33790.00 | 0.44378 | HOLD - Balanced indicators with no clear edge in Stable volatility
+VTR.US_4 | $6977.00 | 0.66608 | BUY - Moderate momentum with +13.8% monthly gain showing balanced metrics
+SMSEUR.DE | $36965.00 | 0.44637 | HOLD - Balanced indicators with no clear edge in Stable volatility
+MLHR.US_9 | $2069.00 | 0.33874 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-42.2%)
+OHI.US_4 | $3731.00 | 0.45319 | HOLD - Balanced indicators with no clear edge in Stable volatility
+PBYI.US_9 | $339.00 | 0.28571 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-69.8%)
+XUTD.UK | $1931100.00 | 0.57612 | HOLD - Balanced indicators with no clear edge in Falling volatility
+AUDJPY | $93741.00 | 0.39402 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+VALMT.FI_9 | $27110.00 | 0.43197 | HOLD - Balanced indicators with no clear edge in Stable volatility
+UNA.NL_4 | $5409.00 | 0.33590 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+YELP.US | $3355.00 | 0.25995 | SELL - Negative trend with -15.1% monthly loss and limited reversal signals
+SAVA.US | $268.00 | 0.21569 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-93.5%)
+ZM.US_4 | $7369.00 | 0.49454 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+F3C.DE | $1930.00 | 0.41617 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+GBPCAD | $184516.00 | 0.52250 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+WAF.DE | $4858.00 | 0.18138 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-57.4%)
+ALD.FR_9 | $8115.00 | 0.26085 | SELL - Balanced indicators with no clear edge in Falling volatility | High historical drawdown risk (-59.8%)
+XDPD.DE | $765620.00 | 0.40721 | HOLD - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+SNOW.US_9 | $17267.00 | 0.26788 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-54.1%)
+MNST.US_9 | $5480.00 | 0.45001 | HOLD - Balanced indicators with no clear edge in Stable volatility
+FII.FR_4 | $2835.00 | 0.55937 | HOLD - Balanced indicators with no clear edge in Falling volatility
+EVD.DE_4 | $10580.00 | 0.56919 | HOLD - Balanced indicators with no clear edge in Stable volatility
+WYNN.US_4 | $8693.00 | 0.47805 | HOLD - Strong but potentially overextended momentum in Stable volatility regime
+SOP.FR_9 | $16090.00 | 0.24735 | SELL - Mixed signals in high volatility environment - position sizing caution advised
+APP.US_9 | $32744.00 | 0.50331 | HOLD - Potential stabilization after -10.4% monthly decline, monitor for trend change
+AAN.US_4 | $1006.00 | 0.33382 | SELL - Balanced indicators with no clear edge in Falling volatility | High historical drawdown risk (-57.9%)
+WS.US | $2537.00 | 0.24890 | SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum | High historical drawdown risk (-45.4%)
+PSM.DE_4 | $5946.00 | 0.21227 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-55.1%)
+UBX.US | $161.00 | 0.37152 | SELL - Negative trend with -27.1% monthly loss and limited reversal signals | High historical drawdown risk (-80.3%)
+XEWE.DE | $10912.00 | 0.47669 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+UTHR.US_9 | $30488.00 | 0.45042 | HOLD - Balanced indicators with no clear edge in Rising volatility
+AVWC.DE | $18840.00 | 0.50236 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+HSY.US_9 | $17685.00 | 0.31110 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-47.5%)
+AGGG.UK | $43025.00 | 0.49117 | HOLD - Balanced indicators with no clear edge in Stable volatility
+RB.UK_9 | $5184.00 | 0.54786 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+GIS.US_4 | $6137.00 | 0.35192 | SELL - Mixed signals in high volatility environment - position sizing caution advised
+LCID.US_9 | $217.00 | 0.21087 | SELL - Negative trend with -25.7% monthly loss and limited reversal signals | High historical drawdown risk (-77.3%)
+URW.NL_9 | $79880.00 | 0.38025 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+AMP.IT_9 | $23920.00 | 0.29407 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+AEP.US_9 | $10448.00 | 0.43823 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SAGA.UK_9 | $1200.00 | 0.43384 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-41.4%)
+WWR.US | $6641.00 | 0.25526 | SELL - Negative trend with -25.6% monthly loss and limited reversal signals | High historical drawdown risk (-69.8%)
+INVH.US_4 | $3378.00 | 0.55229 | HOLD - Balanced indicators with no clear edge in Stable volatility
+WKHS.US_4 | $36.94 | 0.15308 | STRONG SELL - Negative trend with -28.9% monthly loss and limited reversal signals | High historical drawdown risk (-92.0%)
+APPS.US_4 | $312.00 | 0.23327 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-91.7%)
+INR.FR_5 | $2687.00 | 0.24496 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+PARA.US_4 | $1147.00 | 0.28852 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-59.0%)
+SYB3.DE | $522520.00 | 0.38658 | SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+AHYK.DE | $10158.00 | 0.21594 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+WB.US_9 | $1053.00 | 0.23334 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-64.4%)
+BOSS.DE_4 | $42600.00 | 0.24825 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-57.3%)
+BAR.BE_9 | $11200.00 | 0.20684 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-66.2%)
+ALO.FR_9 | $23180.00 | 0.38190 | SELL - Mixed signals in high volatility environment - position sizing caution advised | High historical drawdown risk (-62.1%)
+RENE.PT_4 | $2546.00 | 0.45417 | HOLD - Balanced indicators with no clear edge in Stable volatility
+BIM.FR_9 | $11540.00 | 0.57641 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+EXEL.US_9 | $3828.00 | 0.51255 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+WKP.UK_4 | $4133.00 | 0.20516 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+ENI.IT_4 | $13156.00 | 0.40904 | HOLD - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+SMR.US_4 | $1697.00 | 0.27785 | SELL - Negative trend with -26.1% monthly loss and limited reversal signals | High historical drawdown risk (-81.2%)
+FBIN.US_9 | $6276.00 | 0.22759 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+KNSL.US_4 | $43738.00 | 0.45046 | HOLD - Balanced indicators with no clear edge in Stable volatility
+SUBEEX.DE | $19876.00 | 0.34757 | SELL - Balanced indicators with no clear edge in Rising volatility
+GRMN.US_9 | $22203.00 | 0.66167 | BUY - Balanced indicators with no clear edge in Stable volatility
+JNHD.DE | $27720.00 | 0.53770 | HOLD - Balanced indicators with no clear edge in Stable volatility
+TTWO.US_9 | $21080.00 | 0.56552 | HOLD - Balanced indicators with no clear edge in Rising volatility
+MAKER | $13517.00 | 0.15478 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-77.4%)
+ORI.US_4 | $3725.00 | 0.51440 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+PM.US_4 | $15310.00 | 0.52431 | HOLD - Balanced indicators with no clear edge in Rising volatility
+BBY.US_9 | $7556.00 | 0.41027 | HOLD - Balanced indicators with no clear edge in Rising volatility
+ML.FR_4 | $33950.00 | 0.42582 | HOLD - Balanced indicators with no clear edge in Stable volatility
+AGCO.US_9 | $9023.00 | 0.26268 | SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum | High historical drawdown risk (-40.2%)
+ARYN.CH_4 | $18800.00 | 0.53507 | HOLD - Balanced indicators with no clear edge in Rising volatility
+HEAL.UK | $77650.00 | 0.44531 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+DUE.DE_9 | $2618.00 | 0.40488 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-49.3%)
+PAC.US_9 | $18609.00 | 0.35277 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-44.9%)
+BMEA.US | $288.00 | 0.19226 | STRONG SELL - Negative trend with -27.6% monthly loss and limited reversal signals | High historical drawdown risk (-93.7%)
+CTRA.US_4 | $2576.00 | 0.45900 | HOLD - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+XLI.US_5 | $13263.00 | 0.31566 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+KIM.US_9 | $2150.00 | 0.38592 | SELL - Balanced indicators with no clear edge in Stable volatility
+TGS.NO_4 | $10250.00 | 0.21342 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-52.6%)
+LITU.UK | $72370.00 | 0.29182 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-48.4%)
+BKSY.US | $1280.00 | 0.28974 | SELL - Continued weakness with -27.5% monthly loss in high volatility regime | High historical drawdown risk (-64.7%)
+CEUG.UK_9 | $76880.00 | 0.53411 | HOLD - Balanced indicators with no clear edge in Stable volatility
+FITB.US_4 | $4045.00 | 0.26469 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+EDEN.FR_9 | $32490.00 | 0.13624 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-54.7%)
+WOSG.UK | $4604.00 | 0.24552 | SELL - Negative trend with -17.3% monthly loss and limited reversal signals | High historical drawdown risk (-61.1%)
+H.US_9 | $13833.00 | 0.40126 | HOLD - Balanced indicators with no clear edge in Rising volatility
+PLAY.US | $1861.00 | 0.14918 | STRONG SELL - Negative trend with -32.0% monthly loss and limited reversal signals | High historical drawdown risk (-72.7%)
+GLPI.US_9 | $4975.00 | 0.50896 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BLDP.US_4 | $121.00 | 0.13949 | STRONG SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum | High historical drawdown risk (-80.9%)
+ELY.US_9 | $604.00 | 0.13612 | STRONG SELL - Negative trend with -24.7% monthly loss and limited reversal signals | High historical drawdown risk (-74.5%)
+MRN.FR | $2230.00 | 0.16346 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-57.6%)
+RDC.DE_4 | $12240.00 | 0.50872 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+IS3U.DE | $60820.00 | 0.44941 | HOLD - Balanced indicators with no clear edge in Stable volatility
+NXPI.US_9 | $21202.00 | 0.36993 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+3NGS.UK | $117964.00 | 0.18391 | STRONG SELL - Continued weakness with -62.6% monthly loss in high volatility regime | High historical drawdown risk (-93.3%)
+AMAT.US_9 | $15254.00 | 0.32354 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-40.4%)
+LIVN.US_4 | $4167.00 | 0.31449 | SELL - Balanced indicators with no clear edge in Rising volatility
+ESIH.DE | $72440.00 | 0.54739 | HOLD - Balanced indicators with no clear edge in Stable volatility
+STAG.US_4 | $3594.00 | 0.56895 | HOLD - Balanced indicators with no clear edge in Falling volatility
+PUM.DE_4 | $28540.00 | 0.15771 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-58.1%)
+PARR.US | $1192.00 | 0.16183 | STRONG SELL - Continued weakness with -32.5% monthly loss in high volatility regime | High historical drawdown risk (-70.4%)
+4COP.DE | $27915.00 | 0.51809 | HOLD - Balanced indicators with no clear edge in Stable volatility
+VERI.US | $254.00 | 0.24926 | SELL - Negative trend with -25.7% monthly loss and limited reversal signals | High historical drawdown risk (-80.9%)
+AOS.US_9 | $6591.00 | 0.40070 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+XP.US_4 | $1417.00 | 0.19097 | STRONG SELL - Balanced indicators with no clear edge in Falling volatility | High historical drawdown risk (-59.8%)
+AMZN.US_4 | $20432.00 | 0.44677 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+MKL.US_9 | $187681.00 | 0.56469 | HOLD - Balanced indicators with no clear edge in Rising volatility
+SBBB.SE | $3823.00 | 0.15987 | STRONG SELL - Negative trend with -31.3% monthly loss and limited reversal signals | High historical drawdown risk (-82.6%)
+GCO.ES_4 | $3924.00 | 0.52560 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+BZUN.US_4 | $327.00 | 0.27851 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-68.9%)
+ALTM.US_4 | $582.00 | 0.22795 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-66.9%)
+PGHN.CH_9 | $132500.00 | 0.66291 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+SNAW.DE | $9458.00 | 0.34277 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+FLOT.UK | $50830.00 | 0.34581 | SELL - Balanced indicators with no clear edge in Falling volatility | Negative expectancy (Kelly=-0.38)
+SBGI.US_4 | $1404.00 | 0.21076 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-53.4%)
+NMIH.US_9 | $3555.00 | 0.37067 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+ETN.US_9 | $28144.00 | 0.36508 | SELL - Balanced indicators with no clear edge in Stable volatility
+HERU.UK | $12700.00 | 0.46186 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+HARVIA.FI | $4410.00 | 0.53105 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+VAR1.DE_4 | $13250.00 | 0.12084 | STRONG SELL - Balanced indicators with no clear edge in Rising volatility | High historical drawdown risk (-97.7%)
+SPX.UK_4 | $7214.00 | 0.30053 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum | High historical drawdown risk (-46.3%)
+DMTK.US | $923.00 | 0.13208 | STRONG SELL - Negative trend with -73.4% monthly loss and limited reversal signals | High historical drawdown risk (-98.0%) | Negative expectancy (Kelly=-0.21)
+EDP.PT_9 | $30210.00 | 0.24074 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-44.0%)
+WIX.US_4 | $18950.00 | 0.38344 | SELL - Negative trend with -16.2% monthly loss and limited reversal signals
+SGH.US_4 | $1852.00 | 0.26876 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-54.9%)
+CPB.US_9 | $3946.00 | 0.38085 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+SNAP.US_4 | $949.00 | 0.17461 | STRONG SELL - Negative trend with -18.0% monthly loss and limited reversal signals | High historical drawdown risk (-52.6%)
+ENTA.US_9 | $711.00 | 0.18934 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-89.8%)
+SPIR.US | $1042.00 | 0.19815 | STRONG SELL - Negative trend with -45.0% monthly loss and limited reversal signals | High historical drawdown risk (-60.9%)
+STHY.UK | $946400.00 | 0.49698 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+VPLAYB.SE | $7398.00 | 0.24263 | SELL - Strong but potentially overextended momentum in Stable volatility regime | High historical drawdown risk (-99.8%)
+CARM.US | $4064.00 | 0.15530 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-96.1%)
+ECR.ES_4 | $2870.00 | 0.14178 | STRONG SELL - Negative trend with -18.1% monthly loss and limited reversal signals | High historical drawdown risk (-52.3%)
+DJGTEEX.DE | $85430.00 | 0.35373 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+ENX.FR_4 | $12370.00 | 0.44074 | HOLD - Balanced indicators with no clear edge in Stable volatility
+GOOGL.US_9 | $16914.00 | 0.36553 | SELL - Negative trend with -18.0% monthly loss and limited reversal signals
+LYY5.DE | $20365.00 | 0.41254 | HOLD - Balanced indicators with no clear edge in Stable volatility
+IMAE.NL | $86070.00 | 0.55186 | HOLD - Balanced indicators with no clear edge in Stable volatility
+DLG.UK_9 | $2764.00 | 0.47175 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+OTIS.US_9 | $10018.00 | 0.59225 | HOLD - Balanced indicators with no clear edge in Stable volatility
+ED.US_9 | $9994.00 | 0.56118 | HOLD - Balanced indicators with no clear edge in Stable volatility
+EXPI.US_9 | $985.00 | 0.20572 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-63.5%)
+ZD.US_4 | $3777.00 | 0.16174 | STRONG SELL - Negative trend with -28.1% monthly loss and limited reversal signals | High historical drawdown risk (-51.6%)
+BP.US_9 | $3139.00 | 0.33868 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+CORN | $45482.00 | 0.45950 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-41.7%)
+NN.NL_4 | $47700.00 | 0.42526 | HOLD - Balanced indicators with no clear edge in Rising volatility
+AYRO.US | $5000.00 | 0.19899 | STRONG SELL - Continued weakness with -22.8% monthly loss in high volatility regime | High historical drawdown risk (-82.7%)
+SBUX.US_9 | $11149.00 | 0.44792 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+UBU9.DE_9 | $862300.00 | 0.49905 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+HOT.DE_9 | $17530.00 | 0.60027 | BUY - Strong momentum with +25.9% monthly gain, elevated reversion risk but strong trend continues
+LYV.US_4 | $13539.00 | 0.59363 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+WPM.US_4 | $6966.00 | 0.52794 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+APJX.DE | $49800.00 | 0.41320 | HOLD - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+FSK.US | $2257.00 | 0.62840 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+HFC.US_4 | $3018.00 | 0.18347 | STRONG SELL - Continued weakness with -20.3% monthly loss in high volatility regime | High historical drawdown risk (-52.6%)
+SMSUSA.DE | $1550700.00 | 0.44386 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+NGG.US_9 | $6071.00 | 0.48408 | HOLD - Balanced indicators with no clear edge in Stable volatility
+MUR.US_9 | $2319.00 | 0.11399 | STRONG SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum | High historical drawdown risk (-52.6%)
+UMG.NL_4 | $25800.00 | 0.62563 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+AUDCHF | $56202.00 | 0.40068 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+NGG.US_4 | $6058.00 | 0.48256 | HOLD - Balanced indicators with no clear edge in Stable volatility
+IEF.US_5 | $9461.00 | 0.67301 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+VRE.US_4 | $1656.00 | 0.63621 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+HFC.US_9 | $3019.00 | 0.12695 | STRONG SELL - Negative trend with -20.4% monthly loss and limited reversal signals | High historical drawdown risk (-52.6%)
+CD91.DE | $29380.00 | 0.47662 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+RJF.US_9 | $14336.00 | 0.51003 | HOLD - Potential stabilization after -12.9% monthly decline, monitor for trend change
+VAR.NO_4 | $29500.00 | 0.39015 | SELL - Balanced indicators with no clear edge in Stable volatility
+AVAV.US_4 | $13414.00 | 0.30741 | SELL - Negative trend with -27.8% monthly loss and limited reversal signals | High historical drawdown risk (-42.8%)
+BLK.US_4 | $95215.00 | 0.53875 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+FND.US_4 | $8650.00 | 0.29339 | SELL - Balanced indicators with no clear edge in Stable volatility
+VRE.US_9 | $1667.00 | 0.63250 | BUY - Balanced indicators with no clear edge in Stable volatility
+SDF.DE_9 | $13725.00 | 0.25072 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-55.0%)
+RATOB.SE | $35480.00 | 0.54212 | HOLD - Balanced indicators with no clear edge in Rising volatility
+DPH.UK_4 | $3860.00 | 0.59980 | HOLD - Balanced indicators with no clear edge in Falling volatility
+XOP.US_5 | $11955.00 | 0.32425 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+BLK.US_9 | $95635.00 | 0.37845 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+ALFA.SE_4 | $45660.00 | 0.40721 | HOLD - Balanced indicators with no clear edge in Stable volatility
+TSWE.NL | $343850.00 | 0.49279 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CAPC.UK_9 | $11830.00 | 0.34207 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+LMND.US_4 | $3516.00 | 0.28874 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-56.1%)
+AIZ.US_9 | $20522.00 | 0.33126 | SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+ADS.DE_9 | $23880.00 | 0.38799 | SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+FIZZ.US_4 | $4048.00 | 0.42651 | HOLD - Balanced indicators with no clear edge in Stable volatility
+UFMB.DE | $17796.00 | 0.47365 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SPYJ.DE | $31955.00 | 0.49610 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ACU7.DE | $68960.00 | 0.48222 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+PTGX.US | $3840.00 | 0.24211 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-52.2%)
+HCA.US_9 | $31534.00 | 0.47804 | HOLD - Balanced indicators with no clear edge in Rising volatility
+LYV.US_9 | $13613.00 | 0.65088 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+JKHY.US_9 | $17636.00 | 0.42565 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+INCY.US_4 | $6925.00 | 0.25519 | SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+FCEL.US | $58900.00 | 0.26954 | SELL - Negative trend with -22.9% monthly loss and limited reversal signals | High historical drawdown risk (-92.7%)
+LOTB.BE_9 | $853000.00 | 0.38173 | SELL - Negative trend with -15.2% monthly loss and limited reversal signals
+JUIE.DE | $24880.00 | 0.61212 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+AWK.US_4 | $13725.00 | 0.70950 | BUY - Moderate momentum with +11.1% monthly gain showing balanced metrics
+MCXPEX.DE | $55980.00 | 0.39138 | SELL - Balanced indicators with no clear edge in Stable volatility
+NAS.NO_4 | $11447.00 | 0.36798 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-45.5%)
+SRP.UK_9 | $16450.00 | 0.54382 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SRAC.US | $236.00 | 0.27433 | SELL - Continued weakness with -52.0% monthly loss in high volatility regime | High historical drawdown risk (-96.5%)
+LOGI.US_4 | $9732.00 | 0.42379 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+L4K3.DE | $19000.00 | 0.43881 | HOLD - Balanced indicators with no clear edge in Stable volatility
+IHG.UK_9 | $9552.00 | 0.51176 | HOLD - Potential stabilization after -10.1% monthly decline, monitor for trend change
+WRB.US_9 | $6250.00 | 0.35372 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-41.7%)
+LCEU.DE | $26600.00 | 0.50440 | HOLD - Balanced indicators with no clear edge in Stable volatility
+VC.US_4 | $8429.00 | 0.16256 | STRONG SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-53.1%)
+D500.DE | $496800.00 | 0.47169 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SONO.US_4 | $1293.00 | 0.20343 | SELL - Balanced indicators with no clear edge in Rising volatility | High historical drawdown risk (-54.7%)
+FLO.US_4 | $1837.00 | 0.24363 | SELL - Balanced indicators with no clear edge in Stable volatility
+ULVR.UK_4 | $45300.00 | 0.40189 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+DRW8.DE_9 | $4730.00 | 0.60533 | BUY - Balanced indicators with no clear edge in Stable volatility
+ELE.ES_4 | $21200.00 | 0.39899 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+OMC.US_9 | $8122.00 | 0.30069 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+HEIA.NL_4 | $7995.00 | 0.30492 | SELL - Mixed signals in high volatility environment - position sizing caution advised
+METSO.FI_4 | $10793.00 | 0.30592 | SELL - Mixed signals in high volatility environment - position sizing caution advised
+ABB.SE_9 | $56080.00 | 0.43776 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ORNBV.FI_9 | $5454.00 | 0.48832 | HOLD - Balanced indicators with no clear edge in Stable volatility
+D5BG.DE | $1574000.00 | 0.54362 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+SXRM.DE | $1475000.00 | 0.48465 | HOLD - Balanced indicators with no clear edge in Stable volatility
+QDT.FR | $1696.00 | 0.30123 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+TGBT.DE | $121665.00 | 0.38992 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+UBER.US_4 | $7531.00 | 0.49470 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+CORZ.US_9 | $957.00 | 0.44645 | HOLD - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-47.5%)
+GMED.US_4 | $7839.00 | 0.39622 | SELL - Strong mean-reverting characteristics (Hurst=0.01) with weak momentum
+BKG.UK_4 | $3616.00 | 0.23191 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+XCS3.DE | $10734.00 | 0.26399 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+DLN.UK_4 | $17580.00 | 0.21401 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+SMG.US_9 | $6087.00 | 0.28313 | SELL - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum | High historical drawdown risk (-44.7%)
+ALHPI.FR | $23.00 | 0.13130 | STRONG SELL - Negative trend with -20.7% monthly loss and limited reversal signals | High historical drawdown risk (-99.9%)
+BRAComp | $124553.00 | 0.50103 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+WISE.UK | $9600.00 | 0.42114 | HOLD - Strong mean-reverting characteristics (Hurst=-0.00) with weak momentum
+V60D.DE | $28950.00 | 0.48091 | HOLD - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+RNAC.US | $1722.00 | 0.16418 | STRONG SELL - Strong mean-reverting characteristics (Hurst=0.02) with weak momentum | High historical drawdown risk (-70.3%) | Strong positive expectancy (Kelly=0.33)
+PSNL.US_4 | $428.00 | 0.25353 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-71.7%)
+TUR.US_5 | $3606.00 | 0.48785 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+PHP.UK_9 | $9065.00 | 0.39436 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+CHAINLINK | $15964.00 | 0.21921 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-55.8%)
+MAT.US_9 | $2035.00 | 0.49938 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+HAS.UK_4 | $7388.00 | 0.28797 | SELL - Mixed signals in high volatility environment - position sizing caution advised | High historical drawdown risk (-43.8%)
+TLS.US | $295.00 | 0.23671 | SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-59.6%)
+SILVER | $32541.00 | 0.60538 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+XMKA.DE | $72700.00 | 0.45615 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+ROG.CH_4 | $30260.00 | 0.65971 | BUY - Balanced indicators with no clear edge in Stable volatility
+SRPT.US_4 | $10554.00 | 0.16468 | STRONG SELL - Balanced indicators with no clear edge in Stable volatility | High historical drawdown risk (-57.2%)
+EPAM.US_4 | $19954.00 | 0.41629 | HOLD - Balanced indicators with no clear edge in Rising volatility | High historical drawdown risk (-45.9%)
+PLUS.US_9 | $6389.00 | 0.26195 | SELL - Negative trend with -20.3% monthly loss and limited reversal signals
+IBM.US_9 | $24991.00 | 0.69303 | BUY - Mixed signals requiring monitoring with half-life of 0.0 days
+XDEM.DE | $64080.00 | 0.40898 | HOLD - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+EXPN.UK_4 | $36760.00 | 0.48892 | HOLD - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+ALO.FR_4 | $23050.00 | 0.33088 | SELL - Mixed signals in high volatility environment - position sizing caution advised | High historical drawdown risk (-62.1%)
+SLMA.DE | $91730.00 | 0.41814 | HOLD - Balanced indicators with no clear edge in Rising volatility
+TEN.IT_4 | $16799.00 | 0.37139 | SELL - Strong mean-reverting characteristics (Hurst=0.00) with weak momentum
+IEV.US_5 | $6006.00 | 0.56745 | HOLD - Balanced indicators with no clear edge in Stable volatility
+MNDY.US_4 | $27395.00 | 0.43346 | HOLD - Balanced indicators with no clear edge in Rising volatility
+FHN.US_9 | $1991.00 | 0.26402 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-54.8%)
+FGR.FR_9 | $10410.00 | 0.67090 | BUY - Good momentum with +19.2% monthly gain but increasing volatility, monitor closely
+EDU.US_9 | $4854.00 | 0.21959 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-52.6%)
+V9N.DE | $14680.00 | 0.52940 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+JPM.US_4 | $25162.00 | 0.42841 | HOLD - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum
+HIG.US_4 | $11771.00 | 0.60529 | BUY - Balanced indicators with no clear edge in Stable volatility
+NZDUSD | $57129.00 | 0.42082 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+UGI.US_9 | $3302.00 | 0.47648 | HOLD - Balanced indicators with no clear edge in Falling volatility | High historical drawdown risk (-45.2%)
+MOS.US_4 | $2414.00 | 0.15299 | STRONG SELL - Strong mean-reverting characteristics (Hurst=-0.01) with weak momentum | High historical drawdown risk (-58.9%)
+VIR.US_4 | $830.00 | 0.20276 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days | High historical drawdown risk (-75.3%)
+VLO.US_4 | $12193.00 | 0.32201 | SELL - Mixed signals requiring monitoring with half-life of 0.0 days
+JBL.US_4 | $14352.00 | 0.34892 | SELL - Strong mean-reverting characteristics (Hurst=0.01) with weak momentum
+RLAY.US | $329.00 | 0.15001 | STRONG SELL - Continued weakness with -28.8% monthly loss in high volatility regime | High historical drawdown risk (-82.5%)
+EURRON | $49732.00 | 0.44908 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+JCI.US_9 | $8284.00 | 0.41150 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
+XDWH.DE | $51160.00 | 0.52787 | HOLD - Mixed signals requiring monitoring with half-life of 0.0 days
